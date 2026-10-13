@@ -39,7 +39,10 @@ Dil: Türkçe. Kullanıcı: Soydan (XU30 VİOP endeks vadelisi, MT5, demo hesap)
 - Push bildiriminde "ADAY: HK-…" yaz. Kilit testi ve ileri test **Soydan'ın oturumunda** yapılır.
 
 ## Bütçe
-Koşu başına en fazla ~40 dakika iş, en fazla 2 kart, toplam en fazla 12 varyant.
+**Bir oturum = bir koşu.** Oturum başına en fazla ~40 dakika iş, en fazla 2 kart ve
+**iki kartın toplamı en fazla 12 varyant** (ör. 7 + 5). Aynı oturumda ikinci bir "koşu"
+başlatma; ikinci kart aynı koşu özetine yazılır. Sınır keşif sayacının (KS) hızını ve
+dolayısıyla sahte aday sayısını sınırlar.
 Kaynak bulunamazsa veya hepsi ön elemede düşerse bu da geçerli bir koşudur; özetini yaz.
 
 ## Hata durumunda
