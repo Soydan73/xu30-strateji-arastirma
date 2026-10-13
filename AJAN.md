@@ -26,9 +26,17 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
    - Ön eleme (test yok, KS'ye eklenmez): `UYGUNSUZ` (gece / akşam seansı / elimizde olmayan veri),
      `TEKRAR` (`kapanmis_aileler.md` ya da havuzda zaten var, yeni mekanizma yok),
      `MALIYET_ALTI` (iddia edilen işlem başı brüt × isabet ~8,4 puanı aşmıyor), `TANIMSIZ` (mekanik kurala
-     çevrilemiyor). Elenmeyenler `ACIK` durumuyla kalır.
+     çevrilemiyor **ya da M1'in altında çözünürlük gerektiriyor** — elimizde tick değil M1 bar var; saniye
+     ölçekli scalping, emir defteri sırası, bar içi tik dizilimi gerektiren fikirler test edilemez).
+     Elenmeyenler `ACIK` durumuyla kalır.
    - `ACIK` fikirlere **öncelik puanı (0–10)** ver: mekanizma açık mı (0–3), kaynak kalitesi (0–3),
      kâğıt üstü brüt / maliyet oranı (0–2), tema az denenmiş mi (0–2). Puanın gerekçesini tek satır yaz.
+   - **Periyot önceliği:** karar periyodu **M15 veya üstü** (ve tutma süresi ≥ 15 dk) olan fikre **+1**
+     (toplam en fazla 10). Gerekçe: proje periyot analizi — M1–M5'te maliyet hareketin büyük kısmını yer;
+     M15–M30 karar / ~1 saat tutma maliyet açısından en elverişli aralık. M1–M5 fikirleri yasak değildir,
+     havuzda kalır ve puan sırasıyla test edilir.
+   - Karar periyodu M1'den büyükse sinyal fonksiyonu M1 barlarını kendisi toplar ve **yalnız tamamlanmış**
+     M5/M15/M30/H1 barlarını kullanır; bitmemiş bar kullanmak sızıntıdır, kanarya yakalar.
 
 ### B) Test — koşu başına en fazla 2 kart, toplam 12 varyant
 5. Havuzdaki `ACIK` fikirlerden (bu koşunun ve önceki koşuların) **en yüksek puanlı 1–2 fikri** seç.
