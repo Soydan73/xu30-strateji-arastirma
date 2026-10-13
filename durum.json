@@ -1,6 +1,6 @@
 {
   "surum": "1.00",
-  "kesif_sayaci_KS": 10,
+  "kesif_sayaci_KS": 18,
   "veri": {
     "dosya": "xu30_kesif_m1_gunduz.csv.gz",
     "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)",
@@ -22,7 +22,7 @@
     "acilis_ilk_saat": 0,
     "gun_ici_mevsimsellik": 0,
     "akis_dengesizligi_delta": 0,
-    "hacim_profili_vwap": 0,
+    "hacim_profili_vwap": 8,
     "oynaklik_rejimi": 0,
     "kisa_ufuk_ortalamaya_donus": 0,
     "seans_sonu_akisi": 0,
@@ -30,5 +30,5 @@
     "intraday_momentum_literaturu": 10,
     "diger": 0
   },
-  "son_kosu": "20261013-1930"
+  "son_kosu": "20261013-1936"
 }
