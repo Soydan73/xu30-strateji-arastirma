@@ -1,4 +1,4 @@
-# XU30 Strateji Araştırma Ajanı — Şartname v1.01
+# XU30 Strateji Araştırma Ajanı — Şartname v1.02
 
 **Tarih:** 13.10.2026 · **Durum:** YÜRÜRLÜKTE (v1.01: keşif verisi 00-Akis kararı, motor, K6–K7)
 **Kullanıcı kararları (13.10.2026):** bulut zamanlanmış görev (A), döngü 4–6 saat,
@@ -27,7 +27,12 @@ Ajan **işlem yapmaz, MT5'e dokunmaz, kilitli veriyi göremez, eşik değiştire
 | Ortalama | Yumuşatma gerektiren her yerde JMA tercih edilir (proje kuralı) |
 | Vade geçişi | Devir günleri (tek ayların ilk işlem günü) ayrı raporlanır; kenar devir gününe dayanıyorsa aday olamaz |
 
-## 3. Döngü (her koşu, ~5 saatte bir)
+## 3. Döngü (her koşu, 3 saatte bir — v1.02)
+
+> **v1.02 (13.10.2026):** Okuma ile test ayrıldı. Her koşu **15–30 kaynak** okur ve fikirleri sınırsız
+> olarak `havuz.csv`'ye yazar (ön eleme + öncelik puanı, KS'ye eklenmez). Test bütçesi değişmedi:
+> koşu başına en fazla 2 kart / 12 varyant, havuzun en yüksek puanlı fikirlerinden seçilir.
+> Ayrıntılı adımlar `AJAN.md`'dedir; aşağıdaki liste genel akıştır.
 
 1. **Defteri oku.** Denenmiş fikirler, kapanmış aileler (Ölçüm Arşivi 2.19 dahil), sayaç.
 2. **Tema seç.** Defterde en az kapsanan tema (Böl. 4). Aynı fikri ikinci kez deneme.
@@ -90,7 +95,7 @@ sonuç yazılmaz. Ayrıca geriye bakış penceresi seans başını aşan kombina
 Hepsini geçen kural **ADAY** olur. Aday işlem kuralı değildir.
 
 **Beklenen sahte geçiş:** K2 tek başına kural başına ~%0,135 sahte geçiş verir (tek yönlü t ≥ 3).
-Haftada ~400 varyantta ~0,5 sahte K2 geçişi beklenir; K3/K6/K7 bunu azaltır ama sıfırlamaz.
+Günde 8 koşu × 12 varyant ile haftada en fazla ~670 varyantta ~0,9 sahte K2 geçişi beklenir; K3/K6/K7 bunu azaltır ama sıfırlamaz.
 Haftalık rapor bu sayıyı yazmak zorundadır.
 
 ## 7. Sayaçlar ve kilitli veri
@@ -124,7 +129,7 @@ Ajan hiçbir sonucu "çalışan strateji" diye sunmaz; en güçlü ifade "aday" 
 
 | | |
 |---|---|
-| Çalışma yeri | Bulut zamanlanmış görev, ~5 saatte bir (bilgisayar kapalıyken de çalışır) |
+| Çalışma yeri | Bulut zamanlanmış görev, 3 saatte bir, günde 8 koşu (bilgisayar kapalıyken de çalışır) |
 | Depo | Özel GitHub deposu: `motor.py`, `AJAN.md`, keşif verisi, defter, raporlar |
 | Keşif verisi | `xu30_kesif_m1_gunduz.csv.gz` — `00-Akis.csv` (SHA-256 `a3e7c018…`) gündüz barları, **624 seans, 01.09.2023 → 08.09.2026**; hariç: 02.12.2024 (10 bar), 09.09.2026 (kesik). Boşluk: 31.10.2025 → 05.05.2026 veri yok. Dosya SHA-256 `1242a76d…` |
 | Motor testi | Gerçek kural (10:15 · 5 dk delta · 30 dk): 82 seansta net +35 p, 624 seansta **net −6,1 p** (t −2,7). Bilerek sızıntılı kural: t 20,6 ile K2'yi geçti, **kanarya yakaladı** |
