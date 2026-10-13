@@ -1,8 +1,34 @@
 {
   "surum": "1.00",
-  "kesif_sayaci_KS": 0,
-  "veri": {"dosya": "xu30_kesif_m1_gunduz.csv.gz", "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)", "sha256": "1242a76db67ceedb...", "seans": 624, "aralik": "2023-09-01 -> 2026-09-08", "haric": ["2024-12-02 (10 bar)", "2026-09-09 (kesik)"], "bosluk": "2025-10-31 -> 2026-05-05 veri yok", "tick_degisimi": "2024-12: 0,25 -> 1,0"},
-  "kilit": {"aralik": "2026-09-14 -> 2026-10-09 (20 seans)", "erisim": "bu depoda YOK"},
-  "tema_sayaci": {"acilis_ilk_saat": 0, "gun_ici_mevsimsellik": 0, "akis_dengesizligi_delta": 0, "hacim_profili_vwap": 0, "oynaklik_rejimi": 0, "kisa_ufuk_ortalamaya_donus": 0, "seans_sonu_akisi": 0, "vade_sonu_devir": 0, "intraday_momentum_literaturu": 0, "diger": 0},
-  "son_kosu": null
+  "kesif_sayaci_KS": 10,
+  "veri": {
+    "dosya": "xu30_kesif_m1_gunduz.csv.gz",
+    "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)",
+    "sha256": "1242a76db67ceedb...",
+    "seans": 624,
+    "aralik": "2023-09-01 -> 2026-09-08",
+    "haric": [
+      "2024-12-02 (10 bar)",
+      "2026-09-09 (kesik)"
+    ],
+    "bosluk": "2025-10-31 -> 2026-05-05 veri yok",
+    "tick_degisimi": "2024-12: 0,25 -> 1,0"
+  },
+  "kilit": {
+    "aralik": "2026-09-14 -> 2026-10-09 (20 seans)",
+    "erisim": "bu depoda YOK"
+  },
+  "tema_sayaci": {
+    "acilis_ilk_saat": 0,
+    "gun_ici_mevsimsellik": 0,
+    "akis_dengesizligi_delta": 0,
+    "hacim_profili_vwap": 0,
+    "oynaklik_rejimi": 0,
+    "kisa_ufuk_ortalamaya_donus": 0,
+    "seans_sonu_akisi": 0,
+    "vade_sonu_devir": 0,
+    "intraday_momentum_literaturu": 10,
+    "diger": 0
+  },
+  "son_kosu": "20261013-1930"
 }
