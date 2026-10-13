@@ -13,12 +13,16 @@ Dil: Türkçe. Kullanıcı: Soydan (XU30 VİOP endeks vadelisi, MT5, demo hesap)
 Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geniş tut) ve
 **B) Test** (her varyant KS'ye eklenir, dar tut).
 
-1. `git pull`. `defter.csv`, `durum.json`, `havuz.csv`, `kapanmis_aileler.md` ve son 3 koşu özetini oku.
+1. `git pull`. `defter.csv`, `durum.json`, `havuz.csv`, `arama_rehberi.md`, `arama_gunlugu.csv`, `kapanmis_aileler.md` ve son 3 koşu özetini oku.
 
 ### A) Okuma — her koşuda 15–30 kaynak
 2. **Temalar:** `tema_sayaci`nda en az okunmuş **2–3 tema** seç (SARTNAME Böl. 4). Havuzda bir temadan
    açık fikir çoksa o temayı bu koşu atla.
-3. **Ara:** WebSearch / WebFetch ile **15–30 kaynak**. Öncelik: hakemli çalışma / ön baskı (SSRN, arXiv q-fin,
+3. **Ara:** Önce `arama_rehberi.md`'yi ve `arama_gunlugu.csv`'nin son 30 gününü oku. Sorgularını rehberdeki
+   site kalıpları ve tema tohumlarından kur; **en az 2 yeni sorgu** üret, en az 1 sorgu Türkçe olsun, son 30 günde
+   denenmiş sorguyu tekrarlama. **Her sorguyu** `arama_gunlugu.csv`'ye yaz (sonuç sayısı, işe yarar kaynak sayısı).
+   İşe yarayan yeni anahtar kelimeyi `arama_rehberi.md` → "Ajanın eklediği" bölümüne ekle.
+   WebSearch / WebFetch ile **15–30 kaynak**. Öncelik: hakemli çalışma / ön baskı (SSRN, arXiv q-fin,
    RePEc) > yazarı belli blog / kitap özeti > forum. Video: yalnız başlık, açıklama, transkript.
    mql5.com makaleleri ve kod tabanı da geçerli kaynaktır. Bir kaynağın atıf verdiği çalışmaları da izle.
    Daha önce okunmuş URL'yi (`havuz.csv` ve `kosular/`) yeniden okuma.
@@ -51,7 +55,7 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
    `tema_sayaci`nı (okunan kaynak sayısı) güncelle.
 
 ### Kapanış
-9. **Koşu özeti:** `kosular/YYYYMMDD-HHMM.md` — okunan kaynaklar (URL), havuza eklenen fikirler ve ön eleme
+9. **Koşu özeti:** `kosular/YYYYMMDD-HHMM.md` — denenen sorgular ve verimleri, okunan kaynaklar (URL), havuza eklenen fikirler ve ön eleme
    dağılımı, test edilen kartlar, kapı sonuçları, havuzdaki açık fikir sayısı, bir sonraki koşu için not.
 10. **Pazartesi ilk koşusu** ayrıca `raporlar/hafta-YYYY-WW.md` yazar (SARTNAME Böl. 8). Raporda
     **beklenen sahte K2 geçişi = (haftalık KS) × 0,00135** satırı ve **havuzdaki en iyi 10 açık fikir** zorunlu.
