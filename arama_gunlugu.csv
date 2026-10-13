@@ -1,1 +1,18 @@
 tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
+2026-10-13,20261013-2136,yapay_zeka_ml,EN,arxiv intraday index futures machine learning prediction transaction costs out-of-sample,10,1,MNQ LSTM/GB makalesi
+2026-10-13,20261013-2136,quant_istatistik_modeller,EN,Hurst exponent regime intraday trading rule futures,9,0,SSRN ES bellek makalesi açılmadı; gerisi TradingView/StockSharp
+2026-10-13,20261013-2136,oynaklik_rejimi,EN,realized volatility filter intraday momentum conditional trading rule futures paper,9,2,"HSIF filtre kuralı, semivaryans TSMOM"
+2026-10-13,20261013-2136,yapay_zeka_ml,TR,makine öğrenmesi BIST 30 gün içi tahmin vadeli,9,1,çoğu günlük veri; BTU XGBoost tezi
+2026-10-13,20261013-2136,oynaklik_rejimi,EN,filter trading rule Hang Seng index futures intraday realized volatility range-based profits adaptive market hypothesis,9,1,HKU tezi
+2026-10-13,20261013-2136,yapay_zeka_ml,EN,meta-labeling triple barrier intraday futures primary model trend secondary model study,9,1,Hudson & Thames
+2026-10-13,20261013-2136,yapay_zeka_ml,EN,arxiv order flow imbalance gradient boosting futures intraday return prediction 2025,9,1,Cont-Cucuringu-Zhang OFI
+2026-10-13,20261013-2136,oynaklik_rejimi,EN,volatility compression breakout intraday range contraction NR7 futures evidence,9,0,"yalnız gösterge/blog, kanıt yok"
+2026-10-13,20261013-2136,quant_istatistik_modeller,EN,permutation entropy predictability intraday returns trading strategy low entropy,9,2,"SPY akış entropisi, frekans-entropi"
+2026-10-13,20261013-2136,quant_istatistik_modeller,EN,variance ratio intraday autocorrelation regime switch momentum reversal index futures 5-minute,10,3,"gün içi LeBaron (Bianco-Corsi-Renò), Mehlitz-Auer"
+2026-10-13,20261013-2136,oynaklik_rejimi,TR,oynaklık rejimi VİOP endeks vadeli gün içi strateji dergipark,9,0,"aracı kurum bültenleri, akademik yok"
+2026-10-13,20261013-2136,quant_istatistik_modeller,EN,efficiency ratio Kaufman trend filter intraday futures evaluation,9,0,yalnız gösterge sayfaları
+2026-10-13,20261013-2136,yapay_zeka_ml,EN,deep learning CSI 300 index futures intraday trading strategy transaction costs out-of-sample,10,1,slow momentum fast reversion CPD
+2026-10-13,20261013-2136,yapay_zeka_ml,EN,LLM agent alpha factor mining intraday futures backtest 2025 arxiv,9,1,LLM strateji üretimi (kesitsel hisse)
+2026-10-13,20261013-2136,diger,TR,Borsa İstanbul gün içi oynaklık getiri otokorelasyon yüksek frekans makale,9,1,KHAS HFT tezi
+2026-10-13,20261013-2136,intraday_momentum_literaturu,EN,intraday trend following futures volatility regime trend-following day trading academic evidence Zarattini,9,3,Beat the Market (noise area) + özetler
+2026-10-13,20261013-2136,oynaklik_rejimi,EN,signed jump variation realized semivariance predict intraday returns index futures negative semivariance reversal,10,2,"Caporin, Fang-Jiang-Luo"
