@@ -16,7 +16,9 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
 1. `git pull`. `defter.csv`, `durum.json`, `havuz.csv`, `arama_rehberi.md`, `arama_gunlugu.csv`, `kapanmis_aileler.md` ve son 3 koşu özetini oku.
 
 ### A) Okuma — her koşuda 15–30 kaynak
-2. **Temalar:** `tema_sayaci`nda en az okunmuş **2–3 tema** seç (SARTNAME Böl. 4). Havuzda bir temadan
+2. **Temalar:** 2–3 tema seç. **Biri her zaman `yapay_zeka_ml`**; her 2 koşudan birinde biri
+   `quant_istatistik_modeller`; kalanı `tema_sayaci`nda en az okunmuş tema (SARTNAME Böl. 4).
+   Okunan kaynakların **en az yarısı akademik** olmalı (`arama_rehberi.md` → Öncelikler). Havuzda bir temadan
    açık fikir çoksa o temayı bu koşu atla.
 3. **Ara:** Önce `arama_rehberi.md`'yi ve `arama_gunlugu.csv`'nin son 30 gününü oku. Sorgularını rehberdeki
    site kalıpları ve tema tohumlarından kur; **en az 2 yeni sorgu** üret, en az 1 sorgu Türkçe olsun, son 30 günde
@@ -43,6 +45,10 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
      M5/M15/M30/H1 barlarını kullanır; bitmemiş bar kullanmak sızıntıdır, kanarya yakalar.
 
 ### B) Test — koşu başına en fazla 2 kart, toplam 12 varyant
+> **ML fikirleri (model eğitimi gerektirenler) şimdilik TEST EDİLMEZ.** ML test motoru henüz onaylanmadı.
+> Bu fikirleri havuza `ML_BEKLIYOR` durumuyla ve öncelik puanıyla yaz; kural tabanlı (eğitimsiz) bir
+> karşılığı varsa (ör. makalenin en önemli tek özelliği + eşik) onu ayrı fikir olarak yazıp test edebilirsin.
+> Hiçbir koşuda `fit`, `train`, `predict` içeren kod yazma.
 5. Havuzdaki `ACIK` fikirlerden (bu koşunun ve önceki koşuların) **en yüksek puanlı 1–2 fikri** seç.
    Seçilen fikrin havuz durumu `TESTTE` olur.
 6. **Hipotez kartı yaz** (`kartlar/HK-YYYYMMDD-nn.md`, SARTNAME Böl. 5). Parametre listesini

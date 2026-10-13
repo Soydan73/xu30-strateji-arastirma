@@ -8,6 +8,8 @@ Bu liste bir **başlangıç noktasıdır**, sınır değildir. Ajan her koşuda 
 
 | Tür | Site / arama kalıbı | Not |
 |---|---|---|
+| Akademik ML | `site:arxiv.org q-fin.TR`, `site:arxiv.org cs.LG trading`, `site:paperswithcode.com`, `site:openreview.net`, Journal of Financial Data Science, Quantitative Finance (dergi) | Yöntem bölümünü oku: hangi veri, hangi bölme, maliyet var mı |
+| Quant derleme | `site:hudsonthames.org`, `site:quantstart.com`, `site:quantinsti.com/blog`, `site:paperswithbacktest.com`, López de Prado çalışmaları | ML + finans yöntem tuzakları (sızıntı, meta-etiketleme) |
 | Akademik | `site:ssrn.com`, `site:arxiv.org q-fin`, `site:ideas.repec.org`, `site:sciencedirect.com` | Özet çoğu zaman açık, tam metin bazen ücretli |
 | Akademik (TR) | `site:dergipark.org.tr`, `site:tez.yok.gov.tr`, üniversite açık arşivleri (`openaccess`, `polen.itu.edu.tr`) | BIST / VİOP üzerine yerel çalışmalar |
 | Strateji derlemeleri | `site:quantpedia.com`, `site:alphaarchitect.com`, `site:quantocracy.com`, `site:robotwealth.com`, `site:qoppac.blogspot.com` | Kaynağa atıf verirler; asıl makaleyi izle |
@@ -29,7 +31,18 @@ Bu liste bir **başlangıç noktasıdır**, sınır değildir. Ajan her koşuda 
 | seans_sonu_akisi | end of day price pressure futures, closing auction imbalance, last half hour momentum, market on close flow | seans sonu fiyat baskısı, kapanış seansı |
 | vade_sonu_devir | futures roll period returns, expiration day effect index futures, calendar spread roll pressure | vade sonu etkisi VİOP, vade geçişi fiyat hareketi |
 | intraday_momentum_literaturu | market intraday momentum, gamma hedging intraday momentum, time-series momentum intraday | gün içi momentum borsa istanbul |
+| **yapay_zeka_ml** (ÖNCELİKLİ) | machine learning intraday futures prediction, gradient boosting order flow features, LSTM transformer limit order book mid-price, deep learning index futures intraday, reinforcement learning trading agent futures, meta-labeling triple barrier, LLM agents trading strategy generation, feature importance intraday returns | yapay zeka borsa tahmini, makine öğrenmesi BIST 30, derin öğrenme VİOP |
+| **quant_istatistik_modeller** | Hurst exponent regime intraday, entropy predictability returns, Kalman filter trend futures, fractional differentiation, change-point detection volatility, Ornstein-Uhlenbeck intraday, realized variance jump detection | Hurst üssü borsa, entropi öngörülebilirlik, Kalman filtresi trend |
 | diger | emerging market index futures anomaly, BIST 30 futures strategy, Turkish derivatives market microstructure | BIST 30 vadeli anomali, VİOP mikro yapı |
+
+## Öncelikler (kullanıcı kararı, 14.10.2026)
+1. **Yapay zekâ / ML tabanlı fikirler:** her koşunun temalarından biri `yapay_zeka_ml` olur.
+2. **Akademik yayınlar:** okunan kaynakların **en az yarısı** akademik (hakemli dergi, SSRN, arXiv, tez).
+3. **Quant analiz:** `quant_istatistik_modeller` teması her 2 koşudan birinde seçilir.
+
+**ML kaynaklarını okurken zorunlu kontrol:** (a) bölme zamansal mı, yoksa rastgele mi (rastgele bölme =
+sızıntı şüphesi); (b) işlem maliyeti dahil mi; (c) örneklem dışı süre ne kadar; (d) kaç model / hiperparametre
+denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (accuracy) iddiası kâr kanıtı değildir.
 
 ## Sorgu kuralları
 - Her koşuda en az bir sorgu **Türkçe**, en az bir sorgu **yeni** olsun.
