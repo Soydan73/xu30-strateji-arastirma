@@ -51,4 +51,7 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - Ücretli sayfada özet + yöntem bölümü yeterliyse kart yazılabilir; değilse `TANIMSIZ` (gerekçe: tam metin yok).
 
 ## Ajanın eklediği
-(boş — ajan işe yarayan yeni anahtar kelimeleri buraya ekler)
+- 13.10.2026 (`quant_istatistik_modeller`): "variance ratio intraday autocorrelation regime switch" → Bianco-Corsi-Renò gün içi LeBaron, Mehlitz-Auer bellek momentumu (3 işe yarar)
+- 13.10.2026 (`akis_dengesizligi_delta`): "order flow entropy" / "hidden order in trades" → bilgi kuramsal akış ölçüleri (arXiv 2512.15720)
+- 13.10.2026 (`oynaklik_rejimi`): "filter trading rule realized volatility index futures" → Hang Seng filtre kuralı literatürü
+- Verimsiz (tekrarlama): "NR7 range contraction", "Kaufman efficiency ratio" (yalnız gösterge sayfaları); TR "oynaklık rejimi VİOP" (yalnız aracı kurum bültenleri)
