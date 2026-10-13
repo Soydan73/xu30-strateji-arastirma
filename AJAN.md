@@ -64,7 +64,9 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
 9. **Koşu özeti:** `kosular/YYYYMMDD-HHMM.md` — denenen sorgular ve verimleri, okunan kaynaklar (URL), havuza eklenen fikirler ve ön eleme
    dağılımı, test edilen kartlar, kapı sonuçları, havuzdaki açık fikir sayısı, bir sonraki koşu için not.
 10. **Pazartesi ilk koşusu** ayrıca `raporlar/hafta-YYYY-WW.md` yazar (SARTNAME Böl. 8). Raporda
-    **beklenen sahte K2 geçişi = (haftalık KS) × 0,00135** satırı ve **havuzdaki en iyi 10 açık fikir** zorunlu.
+    **beklenen sahte K2 geçişi = (haftalık KS) × 0,00135** satırı ve **havuzdaki en iyi 10 açık fikir** zorunlu. Ayrıca **"ML karar bölümü"**: havuzdaki `ML_BEKLIYOR` fikir sayısı ve
+    en yüksek puanlı 5'i; bu fikirlerin kural tabanlı karşılıklarından test edilenlerin brüt / net sonuçları
+    (ML test motorunun kurulup kurulmayacağı bu bölüme bakılarak kararlaştırılacak).
 11. `git add -A && git commit -m "kosu YYYYMMDD-HHMM: ..." && git push`.
 
 ## ADAY çıkarsa
