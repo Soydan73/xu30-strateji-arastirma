@@ -1,4 +1,4 @@
-# XU30 Strateji Araştırma Ajanı — Koşu Talimatı v1.00
+# XU30 Strateji Araştırma Ajanı — Koşu Talimatı v1.02
 
 Bu dosyayı her koşunun başında baştan sona oku. Şartnamenin tamamı `SARTNAME.md`.
 Dil: Türkçe. Kullanıcı: Soydan (XU30 VİOP endeks vadelisi, MT5, demo hesap).
@@ -9,7 +9,10 @@ Dil: Türkçe. Kullanıcı: Soydan (XU30 VİOP endeks vadelisi, MT5, demo hesap)
   kilitli veriyi aramak/istemek (bu depoda yok, olmayacak), aynı fikri ikinci kez denemek,
   bir sonucu "çalışan strateji" diye sunmak. En güçlü sözün **"ADAY"**dır.
 
-## Koşu adımları (v1.01 — okuma geniş, test dar)
+## Koşu adımları (v1.02 — okuma geniş, test dar)
+> **v1.02 (14.10.2026, Soydan kararı):** kaynak tabanı genişletildi (akademik oran ≥ %30, uygulayıcı kaynaklar ≥ %30),
+> **video ajanı** eklendi (`VIDEO_AJANI.md`, adım 3b), önceki seans verisi isteyen fikirler için `COK_SEANS` ön eleme
+> durumu eklendi. Test bütçesi DEĞİŞMEDİ.
 Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geniş tut) ve
 **B) Test** (her varyant KS'ye eklenir, dar tut).
 
@@ -18,7 +21,9 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
 ### A) Okuma — her koşuda 15–30 kaynak
 2. **Temalar:** 2–3 tema seç. **Biri her zaman `yapay_zeka_ml`**; her 2 koşudan birinde biri
    `quant_istatistik_modeller`; kalanı `tema_sayaci`nda en az okunmuş tema (SARTNAME Böl. 4).
-   Okunan kaynakların **en az yarısı akademik** olmalı (`arama_rehberi.md` → Öncelikler). Havuzda bir temadan
+   Okunan kaynakların **en az %30'u akademik** (hakemli / ön baskı / tez) ve **en az %30'u uygulayıcı**
+   (TradingView açık kaynak script, mql5 makale/kod tabanı, Quantpedia, yazarı belli blog / Substack, forum,
+   video transkripti) olmalı (`arama_rehberi.md` → Öncelikler). Havuzda bir temadan
    açık fikir çoksa o temayı bu koşu atla.
 3. **Ara:** Önce `arama_rehberi.md`'yi ve `arama_gunlugu.csv`'nin son 30 gününü oku. Sorgularını rehberdeki
    site kalıpları ve tema tohumlarından kur; **en az 2 yeni sorgu** üret, en az 1 sorgu Türkçe olsun, son 30 günde
@@ -26,14 +31,24 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
    İşe yarayan yeni anahtar kelimeyi `arama_rehberi.md` → "Ajanın eklediği" bölümüne ekle.
    WebSearch / WebFetch ile **15–30 kaynak**. Öncelik: hakemli çalışma / ön baskı (SSRN, arXiv q-fin,
    RePEc) > yazarı belli blog / kitap özeti > forum. Video: yalnız başlık, açıklama, transkript.
+   **Her koşuda en az 3 sorgu uygulayıcı kaynaklara** (TradingView / mql5 / forum / blog) yönelir; buralarda
+   kanıt iddiası zayıftır ama denenmemiş mekanik kural çoktur — iddiayı değil kuralı al.
    mql5.com makaleleri ve kod tabanı da geçerli kaynaktır. Bir kaynağın atıf verdiği çalışmaları da izle.
    Daha önce okunmuş URL'yi (`havuz.csv` ve `kosular/`) yeniden okuma.
+3b. **Video ajanı:** `Agent` aracıyla bir alt ajan başlat; isteme şunu yaz: *"Depo kökündeki `VIDEO_AJANI.md`'yi baştan
+   sona oku ve uygula. Kapanmış aileler `kapanmis_aileler.md`'de, havuz `havuz.csv`'de. Havuza YAZMA; fikirleri
+   VIDEO_AJANI.md'deki tablo biçiminde döndür."* Alt ajanın döndürdüğü fikirleri **ana ajan** (tek yazıcı) aynı ön eleme
+   ve puanlama ile `havuz.csv`'ye yazar (`kaynak_turu` = `video`). Video kaynakları okuma sayısına dahildir ve koşu
+   özetinde ayrı satırda raporlanır. Alt ajan hata verirse ya da hiç transkript bulamazsa koşu normal devam eder.
 4. **Fikirleri havuza yaz** (`havuz.csv`, sınır yok). Her fikir için:
    - Ön eleme (test yok, KS'ye eklenmez): `UYGUNSUZ` (gece / akşam seansı / elimizde olmayan veri),
      `TEKRAR` (`kapanmis_aileler.md` ya da havuzda zaten var, yeni mekanizma yok),
      `MALIYET_ALTI` (iddia edilen işlem başı brüt × isabet ~8,4 puanı aşmıyor), `TANIMSIZ` (mekanik kurala
      çevrilemiyor **ya da M1'in altında çözünürlük gerektiriyor** — elimizde tick değil M1 bar var; saniye
-     ölçekli scalping, emir defteri sırası, bar içi tik dizilimi gerektiren fikirler test edilemez).
+     ölçekli scalping, emir defteri sırası, bar içi tik dizilimi gerektiren fikirler test edilemez),
+     `COK_SEANS` (kural **önceki seans** verisi ister: dünün yüksek/düşük/kapanışı, gece boşluğu, N günlük ortalama
+     hacim/oynaklık — motor sinyal fonksiyonuna tek seans verdiği için bugün test edilemez; motor çok seanslı
+     sinyali desteklediğinde ilk bu durumdaki fikirler taranır, bu yüzden **öncelik puanı yine verilir**).
      Elenmeyenler `ACIK` durumuyla kalır.
    - `ACIK` fikirlere **öncelik puanı (0–10)** ver: mekanizma açık mı (0–3), kaynak kalitesi (0–3),
      kâğıt üstü brüt / maliyet oranı (0–2), tema az denenmiş mi (0–2). Puanın gerekçesini tek satır yaz.
@@ -61,7 +76,7 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
    `tema_sayaci`nı (okunan kaynak sayısı) güncelle.
 
 ### Kapanış
-9. **Koşu özeti:** `kosular/YYYYMMDD-HHMM.md` — denenen sorgular ve verimleri, okunan kaynaklar (URL), havuza eklenen fikirler ve ön eleme
+9. **Koşu özeti:** `kosular/YYYYMMDD-HHMM.md` — denenen sorgular ve verimleri, okunan kaynaklar (URL), video ajanı satırı (işlenen / erişilemeyen video, çıkan fikir), havuza eklenen fikirler ve ön eleme
    dağılımı, test edilen kartlar, kapı sonuçları, havuzdaki açık fikir sayısı, bir sonraki koşu için not.
 10. **Pazartesi ilk koşusu** ayrıca `raporlar/hafta-YYYY-WW.md` yazar (SARTNAME Böl. 8). Raporda
     **beklenen sahte K2 geçişi = (haftalık KS) × 0,00135** satırı ve **havuzdaki en iyi 10 açık fikir** zorunlu. Ayrıca **"ML karar bölümü"**: havuzdaki `ML_BEKLIYOR` fikir sayısı ve

@@ -48,6 +48,12 @@ Ajan **işlem yapmaz, MT5'e dokunmaz, kilitli veriyi göremez, eşik değiştire
 9. **Defteri güncelle**, koşu özetini yaz.
 10. Haftanın ilk koşusu (Pazartesi sabahı) **haftalık raporu** yazar (Böl. 8).
 
+> **v1.03 (14.10.2026, Soydan kararı):** Kaynak tabanı genişletildi: akademik oran ≥ %30, uygulayıcı kaynaklar
+> (TradingView/mql5 kodu, Quantpedia, blog, forum, video transkripti) ≥ %30. **Video ajanı** (`VIDEO_AJANI.md`) ana
+> ajana alt ajan olarak bağlandı; videoları transkript üzerinden okur, yalnız fikir döndürür, havuza ana ajan yazar.
+> youtube.com bu bulut ortamından açılmadığı için ana video kaynağı `videolar/gelen/` (Soydan'ın koyduğu transkriptler).
+> Önceki seans isteyen fikirler `COK_SEANS` durumuyla saklanır. Test bütçesi ve kapılar değişmedi.
+
 ## 4. Tema havuzu (başlangıç)
 
 Açılış aralığı ve ilk saat yapısı · gün içi mevsimsellik (saat dilimi etkisi) ·
