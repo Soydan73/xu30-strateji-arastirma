@@ -61,3 +61,7 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - 14.10.2026 (`vade_sonu_devir`): "expiration day effect index futures intraday" + "settlement pinning last hour" → Varşova (endeks vadelisinde etki YOK), HKIMR Asya tipi uzlaşma (dönüş YOK), CSI 300 (hafif). Vade teması literatürde zayıf; XU30'da yılda 6 vade günü → güç sorunu.
 - 14.10.2026 (`akis_dengesizligi_delta`): "VPIN order flow toxicity" → Andersen-Bondarenko (BVC eleştirisi; bizde gerçek bayrak var), Bjursell vd.
 - Verimsiz (tekrarlama): TR "VİOP vade sonu etkisi ..." ve "site:dergipark.org.tr BIST 30 endeks vadeli vade sonu" (bültenler); "futures roll period price pressure" (emtia endeksi roll'u)
+- 14.10.2026 (`seans_sonu_akisi`/`acilis_ilk_saat`): "order imbalance predicts closing return" + "first half an hour order imbalance" → Chu-Qiu FOIB (IJFE), Kang vd. JFM (opsiyon OIB → endeks vadeli); "intraday momentum Taiwan OR KOSPI" → Onishchenko vd. (2.-3. yarım saat), NTU TAIEX tezleri
+- 14.10.2026 (`diger`): "market time-series reversal last three hours" → Xiang-Luo-Yu (TEDE 2025) — önceki seans gerekir, motor tek seans
+- 14.10.2026 (`yapay_zeka_ml`): "falsification study MNQ" → Mesfin (arXiv 2605.04004 / 2605.11423): tek bar OHLCV sinyallerinin sürtünme sınırı
+- Verimsiz (tekrarlama): "opening gap index futures gap fill", "relative volume first hour", TR "Borsa İstanbul açılış gap kapanma", "purged CV LightGBM intraday futures" (bloglar)
