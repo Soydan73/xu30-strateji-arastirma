@@ -75,3 +75,8 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - 14.10.2026 (`diger`): "market time-series reversal last three hours" → Xiang-Luo-Yu (TEDE 2025) — önceki seans gerekir, motor tek seans
 - 14.10.2026 (`yapay_zeka_ml`): "falsification study MNQ" → Mesfin (arXiv 2605.04004 / 2605.11423): tek bar OHLCV sinyallerinin sürtünme sınırı
 - Verimsiz (tekrarlama): "opening gap index futures gap fill", "relative volume first hour", TR "Borsa İstanbul açılış gap kapanma", "purged CV LightGBM intraday futures" (bloglar)
+- 14.10.2026 (`kisa_ufuk_ortalamaya_donus`): "return autocorrelation conditional on trading volume" + "Campbell Grossman Wang" → CGW (QJE) ve CESA WP 14 (1 sn, hacim–otokorelasyon ufuk profili)
+- 14.10.2026 (`quant_istatistik_modeller`): "permutation entropy intraday predictability" → Shternshis-Marmi (UHF) + iki açık kaynak TV PE scripti (ikisi de kenar iddia etmiyor)
+- 14.10.2026 (`yapay_zeka_ml`): "LLM generated trading rules overfitting alpha mining" → AlphaForgeBench, Gençay (arXiv 2608.27734: LLM stratejilerinin hepsi dürüst değerlendirmede reddedildi)
+- Verimsiz (tekrarlama): TR "BIST 30 vadeli gün içi işlem hacmi getiri ilişkisi tez" (bültenler); "site:mql5.com/en/articles volume delta …" (yalnız Market ürünleri); reddit/redlib ve gcris.ieu.edu.tr aynaları bot korumalı (açılmıyor)
+- Video tohumu notu (video ajanı): "initial balance / opening range" video tohumları sürekli H-K1 ailesine çıkıyor → önceliği düşük

@@ -53,3 +53,20 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-14,20261014-0634,seans_sonu_akisi,TR,VİOP endeks vadeli seans sonu kapanış fiyatı uzlaşma son 10 dakika ağırlıklı ortalama fiyat etkisi,9,1,BIST VİOP özet dokümanı (uzlaşma kuralı)
 2026-10-14,20261014-0634,intraday_momentum_literaturu,EN,intraday momentum first half-hour last half-hour index futures Taiwan OR KOSPI OR India evidence journal futures markets,9,4,"Onishchenko vd. JBEF, Li-Sakkas-Urquhart JFM, NTU TAIEX tezleri"
 2026-10-14,20261014-0634,yapay_zeka_ml,EN,purged cross-validation LightGBM intraday futures direction minute bars feature importance realistic backtest arxiv 2025 2026,9,0,MNQ makalesi zaten okunmuş; bloglar
+2026-10-14,20261014-0934,yapay_zeka_ml,EN,arxiv explainable machine learning intraday index futures SHAP feature importance minute bars order flow direction out-of-sample costs,9,1,Fabre-Ragel yürütme ML; MNQ ve AAPL zaten okunmuş
+2026-10-14,20261014-0934,kisa_ufuk_ortalamaya_donus,EN,intraday return autocorrelation conditional on trading volume index futures Campbell Grossman Wang minute data reversal continuation,9,2,"CGW SSRN özeti, CESA WP 14 (1 sn, hacim–otokorelasyon)"
+2026-10-14,20261014-0934,akis_dengesizligi_delta,EN,site:tradingview.com/script open-source strategy cumulative delta divergence futures intraday,10,1,CVD ayrışma scripti (kural belirsiz)
+2026-10-14,20261014-0934,oynaklik_rejimi,EN,quantpedia intraday strategy index futures volatility compression breakout midday,9,2,"TV Execution Signals (başarısız yükseliş braketi), marketcalls ATR; quantpedia sonucu çıkmadı"
+2026-10-14,20261014-0934,diger,TR,BIST 30 vadeli gün içi işlem hacmi getiri ilişkisi tez dakikalık veri,10,0,yalnız aracı kurum bültenleri
+2026-10-14,20261014-0934,quant_istatistik_modeller,EN,arxiv permutation entropy intraday predictability futures trading signal low entropy window,9,3,"Shternshis-Marmi UHF entropi, iki TV PE scripti; 2512.15720 zaten okunmuş"
+2026-10-14,20261014-0934,akis_dengesizligi_delta,EN,site:mql5.com/en/articles volume delta tick volume imbalance strategy expert advisor backtest futures,9,0,yalnız Market ürünleri (makale çıkmadı)
+2026-10-14,20261014-0934,diger,EN,nexusfi OR elitetrader ES futures midday lunch range breakout afternoon trend statistics rules,9,1,NexusFi istatistiksel kenar sayfası; TV oturum kırılım scripti
+2026-10-14,20261014-0934,diger,TR,Borsa İstanbul gün içi getiri öngörülebilirlik işlem hacmi otokorelasyon makale dergipark,10,1,Taş vd. (günlük); İEÜ VİOP mikro yapı tezi bot korumalı
+2026-10-14,20261014-0934,yapay_zeka_ml,EN,arxiv 2026 large language model generated trading rules intraday futures backtest overfitting alpha mining formulaic,9,2,"AlphaForgeBench, Gençay dürüst değerlendirme"
+2026-10-14,20261014-0934,akis_dengesizligi_delta,EN,"""intraday"" ""volume-synchronized"" OR ""volume clock"" returns predictability index futures bars trading rule paper",10,3,"Andersen-Bondarenko VPIN, KOSPI200 VPIN, Harbourfront hacim-oynaklık"
+2026-10-14,20261014-0934,diger,EN,reddit algotrading futures intraday edge after costs what actually worked ES NQ rules,9,2,"edgeful ES/NQ, elitetrader çift işlem; reddit aynası bot korumalı"
+2026-10-14,20261014-0934,acilis_ilk_saat,EN,futures day trading strategy rules VWAP liquidity sweep video backtest,0,0,video ajanı; sonuç sayısı raporlanmadı
+2026-10-14,20261014-0934,acilis_ilk_saat,TR,VİOP endeks vadeli gün içi al sat stratejisi video,0,0,video ajanı; yalnız aracı kurum sayfaları
+2026-10-14,20261014-0934,acilis_ilk_saat,EN,ES NQ fair value gap strategy backtest results video transcript rules,0,0,video ajanı; yalnız ayna siteleri (kural gereği açılmadı)
+2026-10-14,20261014-0934,acilis_ilk_saat,EN,initial balance breakout ES futures strategy video written rules backtest statistics,0,2,"video ajanı; tradethatswing IB, fxstreet IB (ikisi de H-K1 ailesi)"
+2026-10-14,20261014-0934,akis_dengesizligi_delta,EN,youtube delta divergence order flow futures strategy rules,0,0,video ajanı
