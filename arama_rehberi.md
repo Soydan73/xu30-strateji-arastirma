@@ -58,3 +58,6 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - 14.10.2026 (`kisa_ufuk_ortalamaya_donus`): "drift burst" / "locally explosive trends" / "flash crash reversal futures" → Christensen-Oomen-Renò (vadeli tik verisi, dönüş ~2/3)
 - 14.10.2026 (`kisa_ufuk_ortalamaya_donus`): "century of market reversals" / "asymmetric reversal expected volatility" → Bogousslavsky-LeBaron-Pontiff
 - Verimsiz (tekrarlama): TR "derin öğrenme VİOP endeks vadeli gün içi" (yalnız bültenler); gün içi mevsimsellik sorguları çoğunlukla kesitsel hisse ya da yalnız oynaklık deseni döndürüyor
+- 14.10.2026 (`vade_sonu_devir`): "expiration day effect index futures intraday" + "settlement pinning last hour" → Varşova (endeks vadelisinde etki YOK), HKIMR Asya tipi uzlaşma (dönüş YOK), CSI 300 (hafif). Vade teması literatürde zayıf; XU30'da yılda 6 vade günü → güç sorunu.
+- 14.10.2026 (`akis_dengesizligi_delta`): "VPIN order flow toxicity" → Andersen-Bondarenko (BVC eleştirisi; bizde gerçek bayrak var), Bjursell vd.
+- Verimsiz (tekrarlama): TR "VİOP vade sonu etkisi ..." ve "site:dergipark.org.tr BIST 30 endeks vadeli vade sonu" (bültenler); "futures roll period price pressure" (emtia endeksi roll'u)

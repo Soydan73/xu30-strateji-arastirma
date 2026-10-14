@@ -26,3 +26,16 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-14,20261014-0038,kisa_ufuk_ortalamaya_donus,EN,intraday mean reversion after extreme 5-minute return index futures overreaction liquidity shock evidence paper,10,2,"Grant-Wolf-Yu açılış dönüşü, Chen-Kao (haftalık)"
 2026-10-14,20261014-0038,gun_ici_mevsimsellik,EN,"""intraday seasonality"" stock index futures hour-of-day mean returns lunch break predictable pattern trading strategy evidence",10,2,"Allez-Bouchaud (ortalama getiride desen yok), CXO overnight drift"
 2026-10-14,20261014-0038,kisa_ufuk_ortalamaya_donus,EN,"intraday return reversal conditional on volume order flow index futures ""liquidity provision"" 30-minute DAX OR Nikkei OR KOSPI futures",10,2,"drift burst (Christensen-Oomen-Renò), Bogousslavsky-LeBaron-Pontiff"
+2026-10-14,20261014-0334,vade_sonu_devir,EN,expiration day effect index futures intraday returns volatility last trading day evidence,9,4,"Varşova, Hindistan JFM, CSI 300, (HKIMR ikinci sorgudan)"
+2026-10-14,20261014-0334,vade_sonu_devir,TR,VİOP vade sonu etkisi endeks vadeli getiri oynaklık makale,9,0,yalnız aracı kurum/haber sayfaları
+2026-10-14,20261014-0334,vade_sonu_devir,EN,futures roll period price pressure index futures rollover days returns study,10,0,emtia endeksi Goldman roll; endeks vadeli gün içi yok
+2026-10-14,20261014-0334,quant_istatistik_modeller,EN,Kalman filter trend intraday index futures trading rule out-of-sample transaction costs paper,10,1,"Benhamou KF (günlük, örneklem içi)"
+2026-10-14,20261014-0334,yapay_zeka_ml,EN,arxiv transformer intraday futures direction prediction walk-forward transaction costs 2026,10,1,BTC ML maliyet sonrası; MNQ zaten okunmuş
+2026-10-14,20261014-0334,quant_istatistik_modeller,EN,Ornstein-Uhlenbeck intraday mean reversion index futures half-life trading strategy empirical,10,1,Luo vd. OU çift (çoğu TradingView)
+2026-10-14,20261014-0334,vade_sonu_devir,EN,intraday momentum expiration week index futures settlement pinning last hour returns,9,2,"HKIMR Asya uzlaşma, Baltussen vd. gamma"
+2026-10-14,20261014-0334,quant_istatistik_modeller,EN,arxiv realized volatility jump detection intraday trading signal index futures 1-minute reversal after jump,9,2,"Payze BIST sıçrama tezi, Kong vd. RF sıçrama"
+2026-10-14,20261014-0334,vade_sonu_devir,TR,site:dergipark.org.tr BIST 30 endeks vadeli vade sonu günü etkisi,9,1,YÖK spot-vadeli etkileşim tezi; gerisi bültenler
+2026-10-14,20261014-0334,yapay_zeka_ml,EN,"machine learning intraday trading signal futures ""feature importance"" volume imbalance time of day random forest out-of-sample net of costs",9,3,"Easley vd. Machine Age, RF SPY, LSTM/RF S&P"
+2026-10-14,20261014-0334,oynaklik_rejimi,EN,"intraday volatility clustering trend persistence range expansion index futures ""variance ratio"" afternoon continuation paper",9,1,Brown ES SSRN 2026
+2026-10-14,20261014-0334,akis_dengesizligi_delta,EN,VPIN order flow toxicity predicts intraday volatility direction E-mini futures trading rule evidence,9,2,"Andersen-Bondarenko RoF, Bjursell vd."
+2026-10-14,20261014-0334,diger,TR,gün içi momentum Borsa İstanbul yüksek frekans tez vadeli işlem son yarım saat,9,2,"Boğaziçi korelasyon tezi, Başkent mikro yapı tezi; Bilgi ETF zaten havuzda"
