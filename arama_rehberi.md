@@ -80,3 +80,6 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - 14.10.2026 (`yapay_zeka_ml`): "LLM generated trading rules overfitting alpha mining" → AlphaForgeBench, Gençay (arXiv 2608.27734: LLM stratejilerinin hepsi dürüst değerlendirmede reddedildi)
 - Verimsiz (tekrarlama): TR "BIST 30 vadeli gün içi işlem hacmi getiri ilişkisi tez" (bültenler); "site:mql5.com/en/articles volume delta …" (yalnız Market ürünleri); reddit/redlib ve gcris.ieu.edu.tr aynaları bot korumalı (açılmıyor)
 - Video tohumu notu (video ajanı): "initial balance / opening range" video tohumları sürekli H-K1 ailesine çıkıyor → önceliği düşük
+- 14.10.2026 (`gun_ici_mevsimsellik`): "US market open spillover index futures intraday" + "Borsa Istanbul US macroeconomic announcements 15:30" → Wu-Li-Zhang (JFM 2005), DCU (ABD verisi BIST tik tepkisi, ilk 5 dk); ABD açılışı penceresi HK-20261014-13'te denendi (RED)
+- 14.10.2026 (`yapay_zeka_ml`): "reinforcement learning intraday futures minute bars PPO" → Goluža vd. (M1, konum özellikleri, gün sonu düz) — ML_BEKLIYOR için en uygun RL tasarımı
+- Verimsiz (tekrarlama): TR "Borsa İstanbul ABD piyasası açılışı gün içi oynaklık yayılımı" (bültenler); "site:mql5.com/en/articles time filter trading hours" (forum/Market); "site:robotwealth.com intraday seasonality" (robotwealth sonucu yok); emerald.com bot korumalı

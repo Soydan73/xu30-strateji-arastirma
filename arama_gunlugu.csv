@@ -70,3 +70,23 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-14,20261014-0934,acilis_ilk_saat,EN,ES NQ fair value gap strategy backtest results video transcript rules,0,0,video ajanı; yalnız ayna siteleri (kural gereği açılmadı)
 2026-10-14,20261014-0934,acilis_ilk_saat,EN,initial balance breakout ES futures strategy video written rules backtest statistics,0,2,"video ajanı; tradethatswing IB, fxstreet IB (ikisi de H-K1 ailesi)"
 2026-10-14,20261014-0934,akis_dengesizligi_delta,EN,youtube delta divergence order flow futures strategy rules,0,0,video ajanı
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,US market open spillover emerging market index futures intraday returns volatility 30 minutes after New York open,9,2,Wu-Li-Zhang JFM 2005; PolyU yayılım
+2026-10-14,20261014-1234,yapay_zeka_ml,EN,genetic programming intraday trading rules index futures out-of-sample transaction costs minute data,10,1,Neely-Weller GP: maliyet sonrası kâr yok
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,TR,Borsa İstanbul ABD piyasası açılışı gün içi oynaklık yayılımı dakikalık veri,9,0,yalnız aracı kurum bültenleri
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,site:tradingview.com/script time of day seasonality strategy hourly returns futures open source,10,1,CHE saat optimize edici (kural yok)
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,lunch break effect intraday returns index futures afternoon reopening pattern study,9,2,Quantpedia öğle etkisi; LuxAlgo
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,site:mql5.com/en/articles time filter trading hours session statistics strategy intraday,9,0,yalnız forum/Market ürünleri
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,Borsa Istanbul intraday returns U.S. macroeconomic announcements 15:30 Istanbul time high-frequency evidence BIST 30 futures,9,2,"DCU (ABD verisi, tik, 2010); Bilkent Solakoglu-Demir"
+2026-10-14,20261014-1234,yapay_zeka_ml,EN,arxiv symbolic regression trading rule discovery intraday futures interpretable formula out-of-sample 2025,9,1,AlphaCFG (günlük)
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,site:robotwealth.com intraday seasonality time of day effect futures,9,4,"robotwealth yok; NexusFi, edgeful, Plastun, UJI"
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,"""intraday momentum"" ""U.S. open"" OR ""New York open"" European index futures DAX afternoon returns predict study",9,1,JOIM NQ momentum/dönüş
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,TR,VİOP endeks vadeli saat 16:30 ABD açılışı etkisi gün içi strateji forum,9,1,GCM seans saatleri makalesi
+2026-10-14,20261014-1234,yapay_zeka_ml,EN,reinforcement learning intraday index futures minute bars transaction costs out-of-sample arxiv 2025 2026 DQN PPO,9,2,Goluža PPO M1; FineFT
+2026-10-14,20261014-1234,gun_ici_mevsimsellik,EN,"""Borsa Istanbul"" intraday ""U-shaped"" OR ""time-of-day"" return volatility pattern 5-minute futures VIOP study",10,0,emerald bot korumalı
+2026-10-14,20261014-1234,diger,EN,"emerging market stock index intraday return reaction to US cash market open ""price discovery"" overlapping trading hours afternoon drift",9,1,Asya ADR (günlük)
+2026-10-14,20261014-1234-video,gun_ici_mevsimsellik,EN,time of day futures day trading strategy video written rules best hour ES NQ backtest statistics,10,0,video ajanı; videosuz sayfalar
+2026-10-14,20261014-1234-video,vade_sonu_devir,EN,futures contract rollover week trading strategy video rules index futures expiration day,10,0,video ajanı; eğitim sayfaları
+2026-10-14,20261014-1234-video,yapay_zeka_ml,TR,VİOP endeks vadeli yapay zeka al sat robotu video strateji kuralları,9,0,video ajanı; aracı kurum/haber
+2026-10-14,20261014-1234-video,yapay_zeka_ml,EN,machine learning day trading strategy futures video tutorial walk-forward results written article companion,9,0,video ajanı; MathWorks konu dışı
+2026-10-14,20261014-1234-video,vade_sonu_devir,EN,"""triple witching"" OR ""opex week"" day trading strategy video ES futures rules backtest",9,0,video ajanı; tastylive açılmadı
+2026-10-14,20261014-1234-video,gun_ici_mevsimsellik,EN,"""lunch hour"" OR ""power hour"" ES futures strategy video rules backtest results time window",10,0,video ajanı; edgeful/trade-ideas videosuz
