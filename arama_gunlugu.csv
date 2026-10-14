@@ -16,3 +16,13 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-13,20261013-2136,diger,TR,Borsa İstanbul gün içi oynaklık getiri otokorelasyon yüksek frekans makale,9,1,KHAS HFT tezi
 2026-10-13,20261013-2136,intraday_momentum_literaturu,EN,intraday trend following futures volatility regime trend-following day trading academic evidence Zarattini,9,3,Beat the Market (noise area) + özetler
 2026-10-13,20261013-2136,oynaklik_rejimi,EN,signed jump variation realized semivariance predict intraday returns index futures negative semivariance reversal,10,2,"Caporin, Fang-Jiang-Luo"
+2026-10-14,20261014-0038,gun_ici_mevsimsellik,EN,intraday seasonality half-hour returns index futures time-of-day predictability emerging market,9,3,"Çin metal gece seansı, Çin emtia ilk yarım saat, opsiyon mevsimselliği"
+2026-10-14,20261014-0038,gun_ici_mevsimsellik,TR,gün içi saat etkisi Borsa İstanbul getiri deseni dergipark,9,2,"Marmara BIST100 15 dk, Anadolu W formu (eski)"
+2026-10-14,20261014-0038,kisa_ufuk_ortalamaya_donus,EN,arxiv short-term reversal intraday futures minutes overreaction liquidity provision returns,9,2,"CSI 300 son 3 saat dönüşü, Miwa (Quantpedia)"
+2026-10-14,20261014-0038,yapay_zeka_ml,EN,arxiv gradient boosting intraday return prediction index futures time-of-day features transaction costs walk-forward 2025,9,2,"GBDT arama hacmi, ML hacim tahmini; MNQ zaten okunmuş"
+2026-10-14,20261014-0038,yapay_zeka_ml,EN,SHAP feature importance intraday futures return prediction time of day order imbalance volatility machine learning study,9,2,"Naviglio-Lillo açıklanabilir DL, Lis-Ślepaczuk aşırı tepki"
+2026-10-14,20261014-0038,yapay_zeka_ml,TR,derin öğrenme VİOP endeks vadeli gün içi yön tahmini tez,10,0,yalnız aracı kurum bültenleri
+2026-10-14,20261014-0038,gun_ici_mevsimsellik,EN,"intraday periodicity returns ""same time of day"" persistence futures Heston Korajczyk Sadka half-hour",10,1,HKS (kesitsel)
+2026-10-14,20261014-0038,kisa_ufuk_ortalamaya_donus,EN,intraday mean reversion after extreme 5-minute return index futures overreaction liquidity shock evidence paper,10,2,"Grant-Wolf-Yu açılış dönüşü, Chen-Kao (haftalık)"
+2026-10-14,20261014-0038,gun_ici_mevsimsellik,EN,"""intraday seasonality"" stock index futures hour-of-day mean returns lunch break predictable pattern trading strategy evidence",10,2,"Allez-Bouchaud (ortalama getiride desen yok), CXO overnight drift"
+2026-10-14,20261014-0038,kisa_ufuk_ortalamaya_donus,EN,"intraday return reversal conditional on volume order flow index futures ""liquidity provision"" 30-minute DAX OR Nikkei OR KOSPI futures",10,2,"drift burst (Christensen-Oomen-Renò), Bogousslavsky-LeBaron-Pontiff"

@@ -55,3 +55,6 @@ denendi. Bu dördünü havuz satırının `gerekce` alanına yaz. Doğruluk (acc
 - 13.10.2026 (`akis_dengesizligi_delta`): "order flow entropy" / "hidden order in trades" → bilgi kuramsal akış ölçüleri (arXiv 2512.15720)
 - 13.10.2026 (`oynaklik_rejimi`): "filter trading rule realized volatility index futures" → Hang Seng filtre kuralı literatürü
 - Verimsiz (tekrarlama): "NR7 range contraction", "Kaufman efficiency ratio" (yalnız gösterge sayfaları); TR "oynaklık rejimi VİOP" (yalnız aracı kurum bültenleri)
+- 14.10.2026 (`kisa_ufuk_ortalamaya_donus`): "drift burst" / "locally explosive trends" / "flash crash reversal futures" → Christensen-Oomen-Renò (vadeli tik verisi, dönüş ~2/3)
+- 14.10.2026 (`kisa_ufuk_ortalamaya_donus`): "century of market reversals" / "asymmetric reversal expected volatility" → Bogousslavsky-LeBaron-Pontiff
+- Verimsiz (tekrarlama): TR "derin öğrenme VİOP endeks vadeli gün içi" (yalnız bültenler); gün içi mevsimsellik sorguları çoğunlukla kesitsel hisse ya da yalnız oynaklık deseni döndürüyor
