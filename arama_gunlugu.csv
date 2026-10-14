@@ -108,3 +108,19 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-14,20261014-1534-video,quant_istatistik_modeller,EN,Hurst exponent OR Kalman filter intraday futures strategy video transcript rules backtest companion article,10,0,video ajanı
 2026-10-14,20261014-1534-video,yapay_zeka_ml,EN,machine learning ES futures day trading strategy YouTube video blog post rules out-of-sample transaction costs results,9,0,video ajanı
 2026-10-14,20261014-1534-video,vade_sonu_devir,TR,VİOP endeks vadeli vade sonu son işlem günü uzlaşma fiyatı gün içi strateji video anlatım,9,0,video ajanı
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,intraday volume profile value area high low mean reversion index futures empirical study,9,1,yalnız TV scriptleri (HexaTrades); akademik yok
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,site:tradingview.com/script developing value area VAH VAL strategy intraday rejection,9,1,Spectre (açık kaynak); çoğu korumalı
+2026-10-14,20261014-1834,kisa_ufuk_ortalamaya_donus,EN,arxiv intraday short-term reversal minute returns liquidity provision futures transaction costs 2025,9,2,"Mazza-Petitjean (konu dışı çıktı), AlphaArchitect Dai vd."
+2026-10-14,20261014-1834,yapay_zeka_ml,EN,arxiv gradient boosting intraday index futures direction volume features walk-forward transaction costs out-of-sample 2026,9,0,Mesfin 2605.17724 zaten havuzda
+2026-10-14,20261014-1834,hacim_profili_vwap,TR,hacim profili değer alanı POC strateji VİOP endeks vadeli,9,1,mql5 blog 774932; TR kaynak yok
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,"""market profile"" OR ""value area"" futures empirical test academic paper profitability Steidlmayer",10,0,akademik test bulunamadı (S&C ücretli)
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,"""volume at price"" OR ""price-volume distribution"" support resistance intraday futures predictability journal",10,0,yalnız eğitim sayfaları
+2026-10-14,20261014-1834,kisa_ufuk_ortalamaya_donus,EN,arxiv intraday mean reversion index futures overreaction minutes order flow volume conditioned reversal evidence,10,3,"Rif-Utz, Fung-Mok-Lam, Quantpedia Wang-Yu"
+2026-10-14,20261014-1834,yapay_zeka_ml,EN,arxiv 2026 interpretable machine learning intraday trading rules extraction decision tree futures minute data,9,1,arXiv 2405.13959
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,market profile 80% rule backtest results value area futures,9,3,"TV 80 Rule, LuxAlgo, EliteTrader; sayısal test yok"
+2026-10-14,20261014-1834,yapay_zeka_ml,TR,makine öğrenmesi BIST 30 endeks vadeli gün içi yön tahmini makale dergipark,9,1,Sakarya-Yılmaz (günlük); gün içi VİOP ML yok
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,"""point of control"" OR ""high volume node"" price level reaction intraday statistical study futures paper",9,1,NexusFi POC (kaynaksız istatistik)
+2026-10-14,20261014-1834,yapay_zeka_ml,EN,arxiv conformal prediction OR abstention trading signal intraday futures selective prediction net of costs,10,1,When Alpha Breaks 2603.13252
+2026-10-14,20261014-1834,kisa_ufuk_ortalamaya_donus,EN,"intraday return reversal conditional on signed volume order imbalance index futures 5-minute ""price pressure"" journal",10,2,"Sirnes-Dinh, Wang-Ye-Zhao"
+2026-10-14,20261014-1834,hacim_profili_vwap,EN,site:nexusfi.com developing value area fade VAH VAL balance day rules statistics,9,1,NexusFi dVA/dVPOC → HK-17/18
+2026-10-14,20261014-1834-video,hacim_profili_vwap,EN,market profile 80% rule value area futures video strategy rules backtest,9,0,video ajanı; sonuçlar videosuz (ana ajan okudu)
