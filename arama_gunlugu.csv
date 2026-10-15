@@ -182,3 +182,20 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-15,20261015-0634-video,akis_dengesizligi_delta,EN,order flow delta imbalance futures day trading strategy rules video backtest,10,1,video ajanı; NinjaTrader blog
 2026-10-15,20261015-0634-video,yapay_zeka_ml,EN,machine learning intraday futures strategy video tutorial features backtest results ES NQ,9,1,video ajanı; LSEG Tutorial 8
 2026-10-15,20261015-0634-video,quant_istatistik_modeller,EN,Hurst exponent Kalman filter intraday trading strategy video backtest futures,10,0,video ajanı; videosuz sayfalar
+2026-10-15,20261015-0934,vade_sonu_devir,EN,index futures expiration week intraday return pattern days before expiry emerging market futures study,10,2,"Aalto tezi (EURO STOXX 50 vade günü öğle dönüşü), Suliga-Wójtowicz BiK 2019 (WIG20)"
+2026-10-15,20261015-0934,yapay_zeka_ml,EN,"arxiv 2026 machine learning intraday futures ""feature importance"" minute bars net of transaction costs out-of-sample index futures direction",10,1,NexusFi ML sayfası; arXiv 2605.17724 ve Goluža önceden okunmuş
+2026-10-15,20261015-0934,diger,TR,BIST 30 endeks vadeli gün içi anomali çalışma makale VİOP getiri haftanın günü etkisi,9,0,yalnız bültenler ve günlük hisse takvim tezleri
+2026-10-15,20261015-0934,diger,EN,site:tradingview.com/script lunch hour mid-day range breakout strategy futures afternoon session open-source,9,1,TV Range Breakout Session (H-K1 ailesi)
+2026-10-15,20261015-0934,diger,EN,"""Turkish"" OR ""Borsa Istanbul"" index futures intraday price discovery VIOP high frequency study lead-lag spot futures minutes",9,3,"Akdeniz (yalnız künye), Uludağ (günlük), Bilgi varant–vadeli 5 dk"
+2026-10-15,20261015-0934,yapay_zeka_ml,EN,arxiv symbolic regression OR genetic programming intraday trading rule futures minute data interpretable rule discovery out-of-sample costs 2025,10,0,"GP literatürü önceden okunmuş (Neely, Pan 2024)"
+2026-10-15,20261015-0934,yapay_zeka_ml,EN,site:mql5.com/en/articles machine learning decision tree rules extracted trading strategy intraday futures,9,2,"mql5 23633 Tsetlin, 24161 ALGLIB orman"
+2026-10-15,20261015-0934,diger,EN,"site:quantifiedstrategies.com OR site:robotwealth.com intraday ""turn of the month"" OR ""month end"" index futures intraday pattern rules",9,2,"Quantpedia TOTM, Maberly-Waggoner (Atlanta Fed) → HK-20261015-04"
+2026-10-15,20261015-0934,yapay_zeka_ml,EN,"arxiv 2026 ""large language model"" OR LLM agent generates intraday trading hypotheses futures evaluated walk-forward multiple testing deflated Sharpe",9,2,"arXiv 2512.12924, 2507.08584 (ikisi günlük)"
+2026-10-15,20261015-0934,diger,EN,round number price clustering stop-loss take-profit orders index futures intraday reversal break-through Osler evidence futures,10,3,Osler NY Fed SR125/SR150 (kenar maliyet altı)
+2026-10-15,20261015-0934,diger,EN,site:tradingview.com/script round number psychological levels strategy 00 50 levels bounce breakout open-source backtest,9,1,yalnız seviye çizen göstergeler
+2026-10-15,20261015-0934,yapay_zeka_ml,TR,yapay zeka makine öğrenmesi VİOP endeks vadeli dakikalık veri yön tahmini tez XGBoost LSTM işlem maliyeti,9,1,İTÜ doktora 2026 (günlük/haftalık XGBoost)
+2026-10-15,20261015-0934,diger,EN,"intraday ""midday"" OR ""lunch"" low volume period range breakout afternoon trend index futures study OR backtest European futures DAX statistics",9,3,"Unger DAX, stock3 Stagge, NTU TORB (hepsi kırılım ailesi)"
+2026-10-15,20261015-0934-video,yapay_zeka_ml,EN,"""meta-labeling"" triple barrier futures intraday video tutorial walkthrough results out-of-sample",9,0,video ajanı; videosuz sayfalar
+2026-10-15,20261015-0934-video,vade_sonu_devir,EN,futures rollover week day trading strategy video ES NQ roll date price behavior rules,9,0,video ajanı; kural yok
+2026-10-15,20261015-0934-video,diger,TR,VİOP 30 vadeli gün içi strateji video eğitim kuralları backtest sonuçları,9,0,video ajanı; bültenler
+2026-10-15,20261015-0934-video,yapay_zeka_ml,EN,"youtube machine learning day trading bot ES futures 1-minute walk-forward commission slippage results ""companion"" blog post 2026",9,0,video ajanı; teachable kilitli
