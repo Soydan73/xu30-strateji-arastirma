@@ -1,6 +1,6 @@
 {
   "surum": "1.02",
-  "kesif_sayaci_KS": 155,
+  "kesif_sayaci_KS": 165,
   "veri": {
     "dosya": "xu30_kesif_m1_gunduz.csv.gz",
     "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)",
@@ -19,24 +19,24 @@
     "erisim": "bu depoda YOK"
   },
   "tema_sayaci": {
-    "acilis_ilk_saat": 21,
-    "gun_ici_mevsimsellik": 15,
+    "acilis_ilk_saat": 22,
+    "gun_ici_mevsimsellik": 19,
     "akis_dengesizligi_delta": 21,
     "hacim_profili_vwap": 21,
-    "oynaklik_rejimi": 16,
-    "kisa_ufuk_ortalamaya_donus": 20,
+    "oynaklik_rejimi": 28,
+    "kisa_ufuk_ortalamaya_donus": 21,
     "seans_sonu_akisi": 14,
     "vade_sonu_devir": 12,
-    "intraday_momentum_literaturu": 24,
+    "intraday_momentum_literaturu": 27,
     "diger": 24,
-    "yapay_zeka_ml": 51,
+    "yapay_zeka_ml": 56,
     "quant_istatistik_modeller": 29
   },
-  "son_kosu": "20261015-1234",
+  "son_kosu": "20261019-1841",
   "havuz": {
-    "acik": 10,
-    "toplam": 259,
+    "acik": 11,
+    "toplam": 280,
     "ml_bekliyor": 24,
-    "cok_seans": 21
+    "cok_seans": 22
   }
 }
