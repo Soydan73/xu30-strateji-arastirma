@@ -317,3 +317,31 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-20,20261020-0633-video,yapay_zeka_ml,EN,video ajanı: Unger Academy machine learning OR artificial intelligence futures strategy video rules results,9,0,konu dışı
 2026-10-20,20261020-0633-video,yapay_zeka_ml,EN,video ajanı: Ernest Chan webinar video corrective AI meta-labeling futures intraday results slides,10,0,QuantInsti ajanda; IBKR açılmadı
 2026-10-20,20261020-0633-video,diger,TR,video ajanı: gelişmekte olan piyasa endeks vadeli gün içi anomali video seminer VİOP mikro yapı sunum,10,0,seminer duyuruları
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,arxiv 2026 opening auction imbalance index futures first 15 minutes return predictability intraday,10,0,hepsi önceden okunmuş (2607.09426 vb.)
+2026-10-20,20261020-0933,yapay_zeka_ml,EN,arxiv ML intraday futures symbolic/interpretable rule extraction decision tree out-of-sample costs 2026,9,0,2405.13959 okunmuş
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,intraday autocorrelation first hour returns sign persistence variance ratio opening period index futures emerging market,9,0,"okunmuş (CESA, Bianco-Renò)"
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,site:tradingview.com/script opening range first 15 minutes volume direction strategy open source futures,10,0,yalnız ORB gösterge/FVG scriptleri (H-K1)
+2026-10-20,20261020-0933,acilis_ilk_saat,TR,VİOP endeks vadeli açılış ilk 15 dakika yön gün içi devam istatistik,9,0,yalnız bülten/haber
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,opening range relative volume first 30 minutes trend day probability NQ ES statistics study blog backtest 2025,9,2,"edgeful açılış hacmi, NexusFi ORB"
+2026-10-20,20261020-0933,yapay_zeka_ml,EN,arxiv 2026 intraday index futures transformer OR LSTM minute returns transaction costs negative result benchmark buy-and-hold,10,1,Turku LSTM tezi
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,realized semivariance OR signed jumps intraday first hour predicts rest of day return index futures,10,1,Caporin (yalnız oynaklık)
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,site:mql5.com/en/articles opening session first hour range statistics expert advisor DAX index,10,1,Benzinga DAX ORB (mql5 yalnız Market)
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,Kalman filter local linear trend intraday futures trading rule slope signal minute bars backtest,9,0,StockSharp/TV Kalman (aile doymuş)
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,first hour candle direction close same direction percentage index futures statistics 10 years study,9,2,"mql5 blog ORB yeniden üretimi, TV IB haritası"
+2026-10-20,20261020-0933,yapay_zeka_ml,EN,arxiv q-fin 2026 large language model generated alpha factors intraday futures minute bars out-of-sample decay,9,1,2509.23609 (günlük)
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,fractal dimension OR Higuchi intraday regime filter trend following futures minute data trading rule study,10,1,mql5 kod 78262
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,site:quantifiedstrategies.com opening range OR first 30 minutes OR first hour S&P 500 futures intraday backtest rules,9,1,NexusFi HOD (quantifiedstrategies sonucu yok)
+2026-10-20,20261020-0933,acilis_ilk_saat,TR,Borsa İstanbul gün içi açılış seansı fiyat keşfi getiri öngörülebilirliği makale dergipark,10,0,aracı kurum sayfaları; YÖK tezi okunmuş
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,Zarattini Aziz Can day trading really be profitable opening range 5-minute replication futures net of costs,10,1,Retail Traders Repository özeti
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,journal of futures markets 2025 intraday opening price discovery index futures first minutes continuation reversal emerging,9,3,"Jin vd. MPRA, Grant-Wolf-Yu JBF, Cheng-Jiang-Ng JFM"
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,arxiv path signature OR rough path features intraday returns prediction futures minute simple linear benchmark,9,2,"2505.05332, DelphicAlpha"
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,efficiency ratio OR fractal efficiency intraday conditional momentum reversal study high frequency index returns paper,9,1,Aslan-Sensoy FRL (PMC Omega açılmadı)
+2026-10-20,20261020-0933,acilis_ilk_saat,EN,opening call auction volume imbalance predicts intraday return futures call auction first trades continuation reversal paper,9,1,Ozenbas-Schwartz (kural yok)
+2026-10-20,20261020-0933,yapay_zeka_ml,EN,arxiv 2026 time series foundation model OR Chronos OR TimesFM intraday futures zero-shot trading costs evaluation,9,0,2609.25788 PDF okunamadı
+2026-10-20,20261020-0933,quant_istatistik_modeller,EN,Lévy area OR signature trading signal intraday equity index futures 5-minute reversal momentum net costs,9,3,"TV Lévy akış, TV imza rejimi, 2606.31387"
+2026-10-20,20261020-0933-video,acilis_ilk_saat,EN,video ajanı: ORB / ilk saat video kural istatistik,10,0,hepsi önceden okunmuş
+2026-10-20,20261020-0933-video,yapay_zeka_ml,EN,video ajanı: ML walk-forward webinar futures video,9,0,mathworks önceden kayıtlı
+2026-10-20,20261020-0933-video,quant_istatistik_modeller,EN,video ajanı: Hurst / Kalman trading video,9,0,yalnız TV gösterge scriptleri
+2026-10-20,20261020-0933-video,acilis_ilk_saat,EN,video ajanı: initial balance strategy video rules,9,0,"Steady Turtle (videosuz, ATLANDI)"
+2026-10-20,20261020-0933-video,acilis_ilk_saat,EN,video ajanı: opening drive video futures,9,0,TradeStation başlık listesi (ATLANDI)
+2026-10-20,20261020-0933-video,acilis_ilk_saat,TR,video ajanı: BIST 30 vadeli açılış ilk saat video,9,0,bülten/haber
