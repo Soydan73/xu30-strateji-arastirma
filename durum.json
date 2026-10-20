@@ -23,20 +23,20 @@
     "gun_ici_mevsimsellik": 24,
     "akis_dengesizligi_delta": 22,
     "hacim_profili_vwap": 29,
-    "oynaklik_rejimi": 28,
-    "kisa_ufuk_ortalamaya_donus": 21,
-    "seans_sonu_akisi": 18,
+    "oynaklik_rejimi": 31,
+    "kisa_ufuk_ortalamaya_donus": 25,
+    "seans_sonu_akisi": 27,
     "vade_sonu_devir": 12,
     "intraday_momentum_literaturu": 32,
     "diger": 24,
-    "yapay_zeka_ml": 64,
-    "quant_istatistik_modeller": 35
+    "yapay_zeka_ml": 68,
+    "quant_istatistik_modeller": 41
   },
-  "son_kosu": "20261020-0033",
+  "son_kosu": "20261020-0333",
   "havuz": {
     "acik": 14,
-    "toplam": 327,
-    "ml_bekliyor": 28,
-    "cok_seans": 27
+    "toplam": 352,
+    "ml_bekliyor": 29,
+    "cok_seans": 28
   }
 }
