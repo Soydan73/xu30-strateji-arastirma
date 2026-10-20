@@ -345,3 +345,29 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-20,20261020-0933-video,acilis_ilk_saat,EN,video ajanı: initial balance strategy video rules,9,0,"Steady Turtle (videosuz, ATLANDI)"
 2026-10-20,20261020-0933-video,acilis_ilk_saat,EN,video ajanı: opening drive video futures,9,0,TradeStation başlık listesi (ATLANDI)
 2026-10-20,20261020-0933-video,acilis_ilk_saat,TR,video ajanı: BIST 30 vadeli açılış ilk saat video,9,0,bülten/haber
+2026-10-20,20261020-1233-video,kisa_ufuk_ortalamaya_donus,EN,"video ajanı: intraday mean reversion futures strategy video rules ""time of day"" Bollinger z-score ES NQ backtest companion article 2026",10,0,yalnız TV z-skor scripti (çok dilli kopyalar)
+2026-10-20,20261020-1233-video,gun_ici_mevsimsellik,TR,video ajanı: VİOP endeks vadeli saat etkisi öğle arası geri dönüş strateji video anlatım,9,0,aracı kurum sözlük sayfaları
+2026-10-20,20261020-1233-video,yapay_zeka_ml,EN,video ajanı: machine learning intraday seasonality time of day features futures strategy video webinar rules results out-of-sample net of commissions,9,0,"arXiv hacim/oynaklık tahmini (videosuz), Bloomberg webinar ve daytrading.com önceden kayıtlı"
+2026-10-20,20261020-1233-video,kisa_ufuk_ortalamaya_donus,EN,"video ajanı: ""strategy of the month"" OR ""rules + performance"" intraday mean reverting index futures video time window ungeracademy 2026",9,1,Unger p=6953 (ES ping-pong video transkripti); p=9186 videosuz
+2026-10-20,20261020-1233,yapay_zeka_ml,EN,arxiv 2026 Kolmogorov-Arnold network intraday futures minute returns trading out-of-sample transaction costs,10,1,2602.01388 PIKAN DRL (portföy); 2601.02310 okunmuş
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,internal bar strength IBS intraday 15-minute bars mean reversion index futures backtest,9,2,"ProRealCode IBS forumu, QS IBS Substack"
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,consecutive down bars streak intraday mean reversion E-mini futures 30-minute study,10,0,yalnız TV 3 Down 3 Up / LuxAlgo kavram
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,EN,time-of-day adjusted abnormal volume intraday return reversal continuation futures paper,10,1,JOIM NDX vadeli momentum/dönüş; HKS okunmuş
+2026-10-20,20261020-1233,yapay_zeka_ml,TR,yapay sinir ağı VİOP endeks vadeli kontrat fiyat tahmini tez makale,9,0,günlük endeks tezleri / aracı kurum
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,site:tradingview.com/script Connors RSI 2 intraday strategy futures open source 15 minute,10,0,"RSI2 göstergeleri, kapanmış osilatör ailesi"
+2026-10-20,20261020-1233,yapay_zeka_ml,EN,arxiv 2026 intraday futures deep learning walk-forward minute bars net of transaction costs index futures direction classification negative,10,1,Princeton Chen incelemesi (2605.17724 okunmuş)
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,EN,intraday range expansion after midday low volatility index futures afternoon trend persistence time-of-day volatility ratio study,10,1,The Underlying oynaklık ritmi; kalanı okunmuş
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,site:mql5.com/en/articles internal bar strength OR close location value intraday mean reversion expert advisor,9,1,StockSharp IBS (mql5 yalnız Market)
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,TR,Borsa İstanbul gün içi getiri otokorelasyonu 5 dakikalık negatif dönüş VİOP çalışma,9,0,Marmara/Boğaziçi okunmuş; gcris bot korumalı
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,close location value intraday return predictability next bars futures empirical,10,0,2608.28060 PDF okunamadı; kalanı okunmuş
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,EN,site:quantpedia.com intraday seasonality OR time of day futures strategy,9,0,bitcoin / okunmuş NexusFi
+2026-10-20,20261020-1233,yapay_zeka_ml,EN,arxiv 2608.28060 compact selective state-space model cross-sectional stock return ranking raw intraday bars,9,0,PDF makine okunamıyor
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,EN,opening hour volatility predicts afternoon return direction index futures realized volatility ratio morning afternoon trend study 2024,9,1,arXiv 2310.19992 gün içi beta
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,site:elitetrader.com intraday IBS 15 minute ES futures mean reversion tested results,9,2,"Alpha Algo IBS portföyü, TV S4 IBS"
+2026-10-20,20261020-1233,yapay_zeka_ml,EN,arxiv 2026 tabular foundation model TabPFN financial time series intraday trading return prediction,9,1,TabPFN-3 raporu (2605.13986)
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,intraday pullback trend day mean reversion within trend 5-minute index futures statistics probability retracement depth study,9,1,EliteTrader Duxon arşivi (kuralsız)
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,TR,gün içi saat dilimi işlem hacmi oynaklık U şekli VİOP BIST 30 vadeli dakikalık veri makale 2024,9,1,GCM VİOP 2025 raporu (gün içi yok)
+2026-10-20,20261020-1233,kisa_ufuk_ortalamaya_donus,EN,intraday reversal bar range close position within range predicts next 30 minutes returns high frequency futures journal,10,1,arXiv 2504.19623 ESN
+2026-10-20,20261020-1233,akis_dengesizligi_delta,EN,arxiv q-fin 2026 intraday seasonality order flow imbalance time-of-day futures market makers inventory midday reversal,9,1,Barardehi-Bernhardt WP 2020 (işlem zamanı)
+2026-10-20,20261020-1233,yapay_zeka_ml,EN,arxiv 2026 reinforcement learning intraday index futures minute bars transaction costs out-of-sample emerging market,10,2,"2512.12420 derin hedge, PoliMi BTP RL tezi"
+2026-10-20,20261020-1233,gun_ici_mevsimsellik,EN,intraday short-term reversal index futures 15-minute returns liquidity time of day afternoon stronger reversal paper ssrn 2025,9,1,CXO: Xu 2017 saat koşullu dönüş
