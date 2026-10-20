@@ -257,3 +257,19 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-19,20261019-2134,seans_sonu_akisi,EN,"site:elitetrader.com ""last hour"" trend continuation index futures statistics afternoon 2pm high low close",9,2,edgeful power hour devam + öğleden sonra IB
 2026-10-19,20261019-2134-video,seans_sonu_akisi,EN,"video ajanı: 8 EN sorgu (son saat, Unger ML/istatistik, neurotrader, WH SelfInvest, intraday bias, DAX MR)",75,6,"video ajanı; WH 21H52, Unger DAX/altın/LR"
 2026-10-19,20261019-2134-video,seans_sonu_akisi,TR,video ajanı: 1 TR sorgu (VİOP gün sonu kapanış stratejisi video),10,0,video ajanı; bülten/haber
+2026-10-20,20261020-0033,gun_ici_mevsimsellik,EN,central bank rate decision intraday futures returns minutes after announcement drift reversal emerging market index futures study,9,3,"IJCB Euribor, Quantpedia BoE/BoJ/SNB, BSIC EM pre-FOMC"
+2026-10-20,20261020-0033,gun_ici_mevsimsellik,TR,TCMB faiz kararı saat 14:00 BIST 30 vadeli dakikalık tepki etkinlik çalışması,9,0,yalnız bültenler
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,VWAP standard deviation bands intraday mean reversion index futures empirical evidence paper 2024 2025,9,2,"NexusFi VWAP SD, backtrex DAX bant fade (olumsuz)"
+2026-10-20,20261020-0033,yapay_zeka_ml,EN,arxiv 2602.10785 machine learning futures walk-forward,10,1,video ajanının işaret ettiği 2602.10785 (BTC EMA)
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,"""VWAP"" crossings first 30 minutes trend day classification futures statistics rest of day range",10,3,"LuxAlgo rejim, TV 3oAc54JI rejim oyu, TV VWAP first return"
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,"intraday ""VWAP"" trend following strategy index futures paper returns above VWAP momentum Zarattini",9,0,concretum önceden okunmuş
+2026-10-20,20261020-0033,gun_ici_mevsimsellik,EN,day-of-week intraday return pattern hour index futures Monday morning Friday afternoon high frequency study,9,1,Purdue: Pazartesi etkisi hafta sonunda
+2026-10-20,20261020-0033,yapay_zeka_ml,EN,"arxiv 2026 machine learning intraday futures label ""time-of-day"" stratified evaluation negative result no edge after costs minute data",10,1,2303.04581 rebar; MNQ makaleleri önceden okunmuş
+2026-10-20,20261020-0033,gun_ici_mevsimsellik,TR,site:dergipark.org.tr para politikası kurulu karar günü Borsa İstanbul gün içi getiri oynaklık yüksek frekans,9,1,Bilgi: FOMC günü BIST oynaklığı
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,site:mql5.com/en/articles VWAP bands expert advisor intraday futures backtest session reset,9,1,mql5 22990 VWAP pullback EA; gerisi Market
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,"""volume-weighted"" intraday momentum ""distance to VWAP"" return predictability next 30 minutes futures academic",10,2,"Lammers tezi, Baltussen JFE (ITSM, TEKRAR)"
+2026-10-20,20261020-0033,yapay_zeka_ml,EN,"arxiv 2026 gradient boosting intraday ""VWAP"" deviation feature importance futures direction rule",9,0,hepsi önceden okunmuş
+2026-10-20,20261020-0033,yapay_zeka_ml,EN,"""Machine Learning in Futures Markets"" JRFM 2021 intraday features results",9,1,Waldow vd. (kesitsel günlük)
+2026-10-20,20261020-0033,hacim_profili_vwap,EN,"site:reddit.com/r/FuturesTrading VWAP ""first hour"" trend day pullback rules statistics ES backtest",9,1,reddit yok; eltraderfinanciado VWAP kuralları
+2026-10-20,20261020-0033,akis_dengesizligi_delta,EN,intraday volume U-shape abnormal volume time-of-day adjusted relative volume predicts subsequent intraday return direction futures study,9,1,Eur Fin Man 2008 hacim asimetrisi (eşzamanlı)
+2026-10-20,20261020-0033,hacim_profili_vwap,EN/TR,"video ajanı: 6 sorgu (VWAP σ bant video, ML saat etkisi video, TR VİOP saat etkisi VWAP video, Unger VWAP, AVWAP reclaim, Unger best time)",60,1,tradingsim AVWAP (COK_SEANS)
