@@ -19,24 +19,24 @@
     "erisim": "bu depoda YOK"
   },
   "tema_sayaci": {
-    "acilis_ilk_saat": 40,
-    "gun_ici_mevsimsellik": 40,
+    "acilis_ilk_saat": 41,
+    "gun_ici_mevsimsellik": 41,
     "akis_dengesizligi_delta": 44,
     "hacim_profili_vwap": 39,
     "oynaklik_rejimi": 41,
-    "kisa_ufuk_ortalamaya_donus": 35,
+    "kisa_ufuk_ortalamaya_donus": 42,
     "seans_sonu_akisi": 34,
     "vade_sonu_devir": 15,
     "intraday_momentum_literaturu": 39,
-    "diger": 36,
-    "yapay_zeka_ml": 100,
-    "quant_istatistik_modeller": 62
+    "diger": 40,
+    "yapay_zeka_ml": 104,
+    "quant_istatistik_modeller": 63
   },
-  "son_kosu": "20261021-0333",
+  "son_kosu": "20261021-0633",
   "havuz": {
     "acik": 15,
-    "toplam": 521,
-    "ml_bekliyor": 34,
-    "cok_seans": 44
+    "toplam": 540,
+    "ml_bekliyor": 35,
+    "cok_seans": 45
   }
 }
