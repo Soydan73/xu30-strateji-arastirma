@@ -574,3 +574,19 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-02,20261102-1545,quant_istatistik_modeller,EN,macroeconomic announcement price jump continuation reversal first minutes index futures intraday study,10,2,"CXO 10:00 ET haber (Miao vd.), Bjursell-Wang-Webb (sıçrama)"
 2026-11-02,20261102-1545,yapay_zeka_ml,EN,arxiv 2026 machine learning pre-FOMC drift OR announcement day intraday stock index futures trading strategy out-of-sample,10,3,"Adamski-Ślepaczuk 2608.10693 ConvLSTM, Lucca-Moench NBER/SR512, Princeton NFP tezi"
 2026-11-02,20261102-1545,yapay_zeka_ml,EN,gradient boosting intraday return sign features time-of-day realized volatility order imbalance index futures 15-minute walk-forward transaction costs 2025 paper,10,0,"hepsi okunmuş (2605.17724, 2607.09426, 2505.08180)"
+2026-11-02,20261102-1833,seans_sonu_akisi,EN,genetic programming symbolic regression intraday trading rules index futures out-of-sample transaction costs,10,4,"Neely-Weller 99-016, Becker-Seshadri WPI 03-16, Lohpetch-Corne; Warwick 99-89 açılmadı"
+2026-11-02,20261102-1833,yapay_zeka_ml,EN,TabPFN OR tabular foundation model intraday stock index futures return prediction trading strategy 2026,10,2,"2608.04174, 2505.20003 (finans dışı)"
+2026-11-02,20261102-1833,seans_sonu_akisi,EN,"intraday trend day afternoon persistence index futures ""morning range"" predicts close strategy study",10,1,TV m907Lt35; HKBU/nexusfi okunmuş
+2026-11-02,20261102-1833,seans_sonu_akisi,EN,site:tradingview.com/script end of session reversal strategy last 30 minutes overextended VWAP futures,17,1,X1tap85S; 9dkGK2jB açılmadı; diğerleri okunmuş
+2026-11-02,20261102-1833,seans_sonu_akisi,TR,Borsa İstanbul kapanış seansı dengesizlik gün içi getiri son yarım saat akademik makale VİOP,10,1,Bal YL tezi (tezara 381279); kalanı aracı kurum
+2026-11-02,20261102-1833,yapay_zeka_ml,EN,arxiv 2026 symbolic regression OR genetic programming alpha intraday futures minute bars interpretable trading rule net of costs,10,3,"ARTEMIS 2603.18107, Li Imperial tezi, WPI tez"
+2026-11-02,20261102-1833,yapay_zeka_ml,EN,site:mql5.com/en/articles genetic programming trading rules evolution expert advisor intraday session,10,1,mql5 21878 (LLM ajan evrimi)
+2026-11-02,20261102-1833,seans_sonu_akisi,EN,site:reddit.com/r/FuturesTrading OR site:reddit.com/r/Daytrading last hour trend day rules backtest ES NQ 3pm,16,1,reddit çıkmadı; slopeofhope EOD rampası
+2026-11-02,20261102-1833,diger,EN,emerging market index futures intraday high low timing day extremes first hour probability study,10,2,"Acar-Lequeux-Ritz 1996, Bulkowski"
+2026-11-02,20261102-1833,seans_sonu_akisi,EN,"site:quantpedia.com intraday end of day reversal OR ""last hour"" strategy index futures",10,0,hepsi okunmuş (Soebhag-Baltussen-Da ailesi)
+2026-11-02,20261102-1833,diger,EN,"site:tradingview.com/script ""time of day high low"" statistics session extreme formed first hour strategy",16,1,"DTC IB Pro; CCXxeEhV, J17hSoQd açılmadı"
+2026-11-02,20261102-1833,seans_sonu_akisi,TR,viop endeks vadeli gün içi strateji seans sonu kapanışa doğru trend devam blog,19,0,yalnız aracı kurum bültenleri
+2026-11-02,20261102-1833-video,seans_sonu_akisi,EN,video ajanı: Linn Software homework video last hour of trading ES statistics,,1,linnsoft homework dizini
+2026-11-02,20261102-1833-video,yapay_zeka_ml,EN,video ajanı: Kevin Davey video machine learning futures day trading strategy walk-forward results article,,0,podcast/kitap sayfaları
+2026-11-02,20261102-1833-video,diger,EN,video ajanı: edgeful video report emerging market index futures intraday pattern statistics,,0,NinjaTrader sayfasında video yok
+2026-11-02,20261102-1833-video,yapay_zeka_ml,EN,video ajanı: PyData OR PyCon talk video intraday futures trading machine learning lessons learned slides results,,0,verimsiz
