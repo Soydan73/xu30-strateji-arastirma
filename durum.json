@@ -1,6 +1,6 @@
 {
   "surum": "1.02",
-  "kesif_sayaci_KS": 245,
+  "kesif_sayaci_KS": 257,
   "veri": {
     "dosya": "xu30_kesif_m1_gunduz.csv.gz",
     "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)",
@@ -23,20 +23,20 @@
     "gun_ici_mevsimsellik": 41,
     "akis_dengesizligi_delta": 44,
     "hacim_profili_vwap": 51,
-    "oynaklik_rejimi": 41,
+    "oynaklik_rejimi": 51,
     "kisa_ufuk_ortalamaya_donus": 43,
-    "seans_sonu_akisi": 34,
+    "seans_sonu_akisi": 38,
     "vade_sonu_devir": 15,
     "intraday_momentum_literaturu": 42,
     "diger": 41,
-    "yapay_zeka_ml": 114,
+    "yapay_zeka_ml": 121,
     "quant_istatistik_modeller": 74
   },
-  "son_kosu": "20261102-0937",
+  "son_kosu": "20261102-1234",
   "havuz": {
-    "acik": 20,
-    "toplam": 579,
-    "ml_bekliyor": 38,
+    "acik": 18,
+    "toplam": 596,
+    "ml_bekliyor": 39,
     "cok_seans": 49
   }
 }
