@@ -501,3 +501,48 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-10-21,20261021-0633-video,kisa_ufuk_ortalamaya_donus,EN,"video ajanı: ""Rules + Performance"" intraday short-term reversal index futures video ungeracademy RSI pullback overreaction",9,1,"Unger p=6664 (2 fikir: COK_SEANS, UYGUNSUZ)"
 2026-10-21,20261021-0633-video,yapay_zeka_ml,EN,video ajanı: reinforcement learning day trading futures video webinar minute bars out-of-sample transaction costs companion article results,9,0,MathWorks RL konu dışı
 2026-10-21,20261021-0633-video,diger,TR,video ajanı: BIST 30 vadeli kontrat gün içi strateji video eğitim kuralları geriye dönük test sonuçları,9,0,bülten/haber
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,nearest neighbor analog forecasting intraday price path similarity index futures rest of day return out-of-sample,10,3,"Chiang vd. PBFJ, TV KedArc, FGV"
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,functional data analysis intraday cumulative return curve forecast afternoon trading strategy futures arxiv,10,0,yalniz oynaklik egrisi FDA
+2026-11-02,20261102-0937,yapay_zeka_ml,TR,gün içi fiyat örüntüsü benzerlik k en yakın komşu makine öğrenmesi Borsa İstanbul alım satım stratejisi,10,1,Kilic vd. BIR 2023
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,arxiv 2025 machine learning forecast intraday high low range rest of session futures quantile regression take-profit stop-loss placement,10,1,2505.05595
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,site:mql5.com/en/articles pattern matching nearest neighbors similar price history forecast expert advisor,16,1,mql5 code/134; cogu Market urunu
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,"substack quant intraday ""morning session"" shape clustering predicts afternoon direction futures machine learning backtest",10,1,arXiv 1508.04900
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,"""similar days"" OR ""analogue days"" intraday morning session pattern predicts afternoon index futures nearest neighbor 2025 paper",10,0,verimsiz
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,site:elitetrader.com pattern matching nearest neighbor similar days intraday ES futures backtest results,10,1,TV Uu3lkppG
+2026-11-02,20261102-0937,yapay_zeka_ml,EN,arxiv 2026 k-nearest neighbors OR kernel similarity intraday futures minute bars pattern retrieval trading net of transaction costs walk-forward,10,2,"2606.10219, PoliTo DTW tezi"
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,arxiv fractional differentiation intraday futures minute bars trading signal memory preserving stationarity out-of-sample,10,2,
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,transfer entropy signed volume order flow to price intraday index futures directional information predictability paper,10,0,verimsiz
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,site:quantpedia.com OR site:substack.com Markov chain intraday bar direction transition probability futures strategy,10,3,"SMU, arXiv, ProRealCode"
+2026-11-02,20261102-0937,quant_istatistik_modeller,TR,uzun hafıza ARFIMA kesirli fark BIST 30 vadeli gün içi veri dergipark,10,0,yalniz gunluk
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,site:tradingview.com/script sequential probability ratio test OR runs test trend strategy open source,7,1,
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,sequential probability ratio test trend detection trading rule intraday returns drift change paper,10,0,verimsiz
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,runs of consecutive price changes intraday index futures Markov chain conditional probability continuation reversal trading rule study,10,3,"Hashimoto vd., Rechenthin-Street -> HK-20261102-01"
+2026-11-02,20261102-0937,quant_istatistik_modeller,EN,site:mql5.com/en/articles Markov chain transition matrix candle states expert advisor backtest,17,2,"mql5 21822, 22377"
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"arxiv volume profile ""point of control"" price dynamics intraday futures empirical 2025",10,0,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,site:tradingview.com/script buy VWAP sell VWAP aggressor volume weighted separate spread strategy,17,1,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,low volume node LVN breakout continuation intraday futures backtest statistics rules,10,2,NexusFi nodes
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"""buyer-initiated"" ""seller-initiated"" volume-weighted average price gap intraday return predictability paper",10,0,verimsiz
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"ssrn volume profile support resistance ""high volume"" price levels intraday reversal evidence futures 2024 2025",10,0,
+2026-11-02,20261102-0937,hacim_profili_vwap,TR,VWAP eğimi hacim profili POC kayması gün içi işlem stratejisi geriye dönük test,10,0,yalniz TV listeleri
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"arxiv ""volume profile"" OR ""volume-at-price"" market microstructure ""liquidity"" price returns to high volume levels empirical study",10,1,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"""VWAP"" reference point traders institutional benchmark price intraday reversion journal finance empirical ""relative to VWAP"" execution pressure",10,1,Choi-Larsen-Seppi
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"master thesis ""volume profile"" OR ""market profile"" trading strategy backtest futures ""value area"" pdf university",10,1,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"arxiv ""support and resistance"" price levels volume memory intraday ""high-frequency"" empirical bounce probability previously traded prices",10,2,"Chung-Bellotti, Garzarelli"
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"ssrn OR arxiv 2025 intraday ""VWAP"" signal futures ""trend"" ""mean reversion"" regime crossover study minute data index futures performance",10,0,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"edgeful OR ""tradingstats"" first touch of VWAP after opening drive continuation probability NQ ES statistics report",14,1,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"intraday ""P-shaped"" ""b-shaped"" profile short covering long liquidation mechanical definition POC position in range afternoon continuation statistics",10,2,"LuxAlgo, Auction Intelligence"
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"""anchored VWAP"" OR ""volume-weighted average price"" breakout signal empirical evaluation journal 2024 intraday stock index futures ""transaction costs""",10,0,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,substack developing POC migration speed intraday trend day signal futures backtest volume profile skew,7,1,
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"site:quantpedia.com VWAP OR ""volume profile"" intraday strategy",10,0,sonuc yok
+2026-11-02,20261102-0937,hacim_profili_vwap,EN,"""POC Migration Velocity"" PhenLabs tradingview script",7,1,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,EN,video ajanı: VWAP volume profile futures day trading strategy rules video backtest,17,0,
+2026-11-02,20261102-0937-video,yapay_zeka_ml,EN,video ajanı: machine learning intraday futures trading strategy video walk-forward ES NQ,19,0,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,TR,video ajanı: VİOP endeks vadeli gün içi strateji VWAP hacim profili video,16,0,
+2026-11-02,20261102-0937-video,intraday_momentum_literaturu,EN,video ajanı: Unger Academy video strategy VWAP intraday futures,18,5,"esl. sayfalar, kural gizli"
+2026-11-02,20261102-0937-video,quant_istatistik_modeller,EN,video ajanı: webinar video Hurst exponent mean reversion intraday futures strategy QuantInsti,17,0,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,EN,video ajanı: Linn Software video homework volume profile POC statistics ES,18,0,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,EN,"video ajanı: video transcript ""value area"" 80% rule strategy futures backtest results",10,0,
+2026-11-02,20261102-0937-video,yapay_zeka_ml,EN,video ajanı: QuantInsti webinar machine learning intraday trading strategy video recording,16,0,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,EN,"video ajanı: Trader Dale volume profile setup video ""volume accumulation"" rules",7,0,ayna siteler
+2026-11-02,20261102-0937-video,akis_dengesizligi_delta,EN,video ajanı: order flow delta divergence POC strategy video futures NQ rules explained 2026,18,0,
+2026-11-02,20261102-0937-video,hacim_profili_vwap,EN,video ajanı: ungeracademy.com strategy of the month machine learning OR volume OR VWAP intraday,19,0,
