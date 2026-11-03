@@ -2,7 +2,7 @@
 # Seri: M1 bar dengesizlik oranı x = (alış−satış)/(alış+satış). Yeni rejim m bar onaylanınca rejim ortalaması işaretinde.
 # Kaynak fikir: Tsaknaki-Lillo-Mazzarisi (QF 2024) akış rejimleri. Yalnız s.iloc[:i+1] kullanılır.
 import numpy as np
-from math import lgamma
+from scipy.special import gammaln
 
 MU0, KAPPA0, ALPHA0, BETA0 = 0.0, 1.0, 1.0, 0.16   # önsel: ortalama 0, varyans ölçeği ~0,16 (koşudan önce sabit)
 RMAX = 300
@@ -12,7 +12,7 @@ def _t_logpdf(x, mu, kappa, alpha, beta):
     nu = 2 * alpha
     s2 = beta * (kappa + 1) / (alpha * kappa)
     z = (x - mu) ** 2 / (nu * s2)
-    return (np.vectorize(lgamma)((nu + 1) / 2) - np.vectorize(lgamma)(nu / 2)
+    return (gammaln((nu + 1) / 2) - gammaln(nu / 2)
             - 0.5 * np.log(nu * np.pi * s2) - (nu + 1) / 2 * np.log1p(z))
 
 
