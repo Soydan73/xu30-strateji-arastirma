@@ -54,6 +54,12 @@ Ajan **işlem yapmaz, MT5'e dokunmaz, kilitli veriyi göremez, eşik değiştire
 > youtube.com bu bulut ortamından açılmadığı için ana video kaynağı `videolar/gelen/` (Soydan'ın koyduğu transkriptler).
 > Önceki seans isteyen fikirler `COK_SEANS` durumuyla saklanır. Test bütçesi ve kapılar değişmedi.
 
+> **v1.04 (03.11.2026, Soydan kararı):** `COK_SEANS` fikirleri **`motor_cok.py`** ile test edilir. `motor.py` değişmedi;
+> `motor_cok.py` onu içe aktarır (maliyet, giriş/çıkış, K1–K7 aynı). Sinyal fonksiyonu bugünden önceki en fazla 60 seansı
+> salt okunur görür; vade geçişi (`ayni_vade`), veri boşluğu (> 5 iş günü → bağlam kesilir) ve akşam seansı tanımı
+> motorda sabittir. K5 genişletildi: gün içi kesim + bağlam bütünlüğü (gelecek seans, `onceki` değişmezliği) + statik
+> kaynak denetimi. KS ortak. Ön kayıt ve kabul testi: `MOTOR_COK.md`, `araclar_motor_cok_testi.py`.
+
 ## 4. Tema havuzu (başlangıç)
 
 Açılış aralığı ve ilk saat yapısı · gün içi mevsimsellik (saat dilimi etkisi) ·
@@ -91,7 +97,7 @@ beklenen     : kaynağa göre işlem başı brüt (puan), yoksa "bilinmiyor"
 | K6 | İki bağımsız dönemde (2023-09→2024-12 / 2025-01→2026-09) **net > 0** | Rejim/tick değişimine dayanıklılık |
 | K7 | Vade devir günleri çıkarılınca **net > 0** | Proje talimatı (devir boşlukları) |
 
-Kapılar `motor.py` içinde sabittir; ajan yalnız sinyal fonksiyonu yazar (giriş: sinyal barından
+Kapılar `motor.py` içinde sabittir (`motor_cok.py` aynı kapıları çağırır); ajan yalnız sinyal fonksiyonu yazar (giriş: sinyal barından
 sonraki barın açılışı; stop/hedef aynı barda değerse STOP; 18:05'te zorla kapanış).
 
 **Sızıntı kanaryası:** sinyal, rastgele kesim noktalarında ve her sinyal barında geleceği

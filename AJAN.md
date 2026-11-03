@@ -1,17 +1,20 @@
-# XU30 Strateji Araştırma Ajanı — Koşu Talimatı v1.02
+# XU30 Strateji Araştırma Ajanı — Koşu Talimatı v1.03
 
 Bu dosyayı her koşunun başında baştan sona oku. Şartnamenin tamamı `SARTNAME.md`.
 Dil: Türkçe. Kullanıcı: Soydan (XU30 VİOP endeks vadelisi, MT5, demo hesap).
 
 ## Sen kimsin, ne yapmazsın
 - İnternette işlem fikri arar, mekanik kurala çevirir, **keşif verisinde** eler, deftere yazarsın.
-- **Yapmazsın:** işlem açmak, MT5'e bağlanmak, `motor.py`'yi değiştirmek, eşik değiştirmek,
+- **Yapmazsın:** işlem açmak, MT5'e bağlanmak, `motor.py`'yi veya `motor_cok.py`'yi değiştirmek, eşik değiştirmek,
   kilitli veriyi aramak/istemek (bu depoda yok, olmayacak), **Google Drive'a veya başka bir bağlı uygulamaya
   erişmek** ve **bu depo dışında herhangi bir GitHub deposunu eklemek/okumak** (özellikle `xu30-dogrulama-verisi`;
   orada kilitli ve ileri test dönemi var; tek veri kaynağın bu depodaki keşif dosyası), aynı fikri ikinci kez denemek,
   bir sonucu "çalışan strateji" diye sunmak. En güçlü sözün **"ADAY"**dır.
 
-## Koşu adımları (v1.02 — okuma geniş, test dar)
+## Koşu adımları (v1.03 — okuma geniş, test dar)
+> **v1.03 (03.11.2026, Soydan kararı):** önceki seans verisi isteyen (`COK_SEANS`) fikirler artık **`motor_cok.py`**
+> ile test edilir (`MOTOR_COK.md`). `motor.py` değişmedi; `motor_cok.py` onu içe aktarır, maliyet/kapılar aynıdır.
+> KS ortaktır. Koşu başına kartlardan **biri** `COK_SEANS` kuyruğundan seçilir (adım 5). Bildirim yalnız ADAY'da.
 > **v1.02 (14.10.2026, Soydan kararı):** kaynak tabanı genişletildi (akademik oran ≥ %30, uygulayıcı kaynaklar ≥ %30),
 > **video ajanı** eklendi (`VIDEO_AJANI.md`, adım 3b), önceki seans verisi isteyen fikirler için `COK_SEANS` ön eleme
 > durumu eklendi. Test bütçesi DEĞİŞMEDİ.
@@ -49,8 +52,10 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
      çevrilemiyor **ya da M1'in altında çözünürlük gerektiriyor** — elimizde tick değil M1 bar var; saniye
      ölçekli scalping, emir defteri sırası, bar içi tik dizilimi gerektiren fikirler test edilemez),
      `COK_SEANS` (kural **önceki seans** verisi ister: dünün yüksek/düşük/kapanışı, gece boşluğu, N günlük ortalama
-     hacim/oynaklık — motor sinyal fonksiyonuna tek seans verdiği için bugün test edilemez; motor çok seanslı
-     sinyali desteklediğinde ilk bu durumdaki fikirler taranır, bu yüzden **öncelik puanı yine verilir**).
+     hacim/oynaklık, önceki N günün aynı saat hareketi — **`motor_cok.py` ile test edilir**, öncelik puanı verilir;
+     etiket, testte hangi motorun kullanılacağını gösterir).
+     Not: önceki seans fikri **gece pozisyonu** (dün kapanışta gir, bugün çık) isterse yine `UYGUNSUZ`'dur;
+     `motor_cok` yalnız GÜNDÜZ içinde işlem açar, önceki seansı yalnız bilgi olarak görür.
      Elenmeyenler `ACIK` durumuyla kalır.
    - `ACIK` fikirlere **öncelik puanı (0–10)** ver: mekanizma açık mı (0–3), kaynak kalitesi (0–3),
      kâğıt üstü brüt / maliyet oranı (0–2), tema az denenmiş mi (0–2). Puanın gerekçesini tek satır yaz.
@@ -66,15 +71,27 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
 > Bu fikirleri havuza `ML_BEKLIYOR` durumuyla ve öncelik puanıyla yaz; kural tabanlı (eğitimsiz) bir
 > karşılığı varsa (ör. makalenin en önemli tek özelliği + eşik) onu ayrı fikir olarak yazıp test edebilirsin.
 > Hiçbir koşuda `fit`, `train`, `predict` içeren kod yazma.
-5. Havuzdaki `ACIK` fikirlerden (bu koşunun ve önceki koşuların) **en yüksek puanlı 1–2 fikri** seç.
+5. Havuzdaki `ACIK` ve `COK_SEANS` fikirlerden (bu koşunun ve önceki koşuların) **en yüksek puanlı 1–2 fikri** seç.
+   **COK_SEANS kuyruğu önceliği (v1.03):** kuyrukta öncelik puanı ≥ 2 olan fikir kaldıkça, koşunun kartlarından
+   **biri** kuyruğun en yüksek puanlı fikridir (eşitlikte eski tarihli önce). Seçmeden önce satırı yeniden oku:
+   gerçekte `TEKRAR`/`UYGUNSUZ` ise (ör. gece pozisyonu, elimizde olmayan veri) durumunu düzelt, sıradakine geç.
    Seçilen fikrin havuz durumu `TESTTE` olur.
 6. **Hipotez kartı yaz** (`kartlar/HK-YYYYMMDD-nn.md`, SARTNAME Böl. 5). Parametre listesini
    **kodu çalıştırmadan önce** karta yaz ve commit et. Sonradan değiştirme.
 7. **Test:** `sinyaller/HK-....py` içine yalnız sinyal fonksiyonu yaz (motor sözleşmesi
    `motor.py` başında). `motor.kart_calistir(...)` ile koş. Sinyal fonksiyonunda gelecek bar ve seans
    geneli istatistik (gün ortalaması, gün max'ı vb.) kullanma; kanarya bunu yakalar ve kart GEÇERSİZ olur.
+   **COK_SEANS fikri:** sözleşme `sinyal(s, onceki, bilgi, **p)` (`motor_cok.py` başı ve `MOTOR_COK.md`);
+   `motor_cok.kart_calistir_cok(seanslar, sinyal, varyantlar, cikis_fn, max_islem, geri=N)` ile koş. Kartın başına
+   `motor : motor_cok 1.00` ve `geri : N` (≤ 60 seans) yaz. Kurallar: (i) dünün kapanışı/yükseği/düşüğü, gece
+   boşluğu, önceki değer alanı gibi **fiyat düzeyi** karşılaştırmaları yalnız `bilgi["ayni_vade"]` True olan
+   seanslardan; hacim/oynaklık ortalamaları tüm `onceki`'den; (ii) `onceki` yetmiyorsa (boş ya da < N) sinyal 0;
+   (iii) sinyal dosyasında dosya okuma, `os`, `glob`, `motor` içe aktarma, modül düzeyinde veri tutma YASAK
+   (statik denetim K5'i düşürür); (iv) `onceki` salt okunur — değiştirmek K5'i düşürür. Kontrol varyantı
+   önerisi: aynı kuralın önceki seans koşulu kaldırılmış hali.
 8. **Defteri yaz:** her varyant bir satır (`defter.csv` başlığı sabit). Havuzda fikrin durumunu
-   `TEST_EDILDI` yap ve `kart_id` yaz. `durum.json`'da KS'yi test edilen varyant sayısı kadar artır,
+   `TEST_EDILDI` yap ve `kart_id` yaz. `motor_cok` varyantlarında defterin `gerekce` alanının sonuna
+   `; motor_cok` ekle (başlık sabit). KS iki motor için **ortaktır**. `durum.json`'da KS'yi test edilen varyant sayısı kadar artır,
    `tema_sayaci`nı (okunan kaynak sayısı) güncelle.
 
 ### Kapanış
@@ -90,6 +107,10 @@ Her koşu iki ayrı işten oluşur: **A) Okuma** (istatistiksel bedeli yok, geni
 - Kartı `adaylar/` altına kopyala; önerilen H- ön kaydı taslağını yaz (kural, parametre,
   birincil istatistik, kapı, beklenen yön).
 - Push bildiriminde "ADAY: HK-…" yaz. Kilit testi ve ileri test **Soydan'ın oturumunda** yapılır.
+
+## Bildirim politikası (v1.03, Soydan kararı 03.11.2026)
+**Yalnız ADAY çıktığında** bildirim gönderilir. RED, boş koşu ve hata durumları bildirilmez; `kosular/` özetine
+yazılır ve push edilir (Soydan dilediğinde depodan okur).
 
 ## Bütçe
 **Bir oturum = bir koşu.** Oturum başına en fazla ~60 dakika iş. Okuma 15–30 kaynak, havuza fikir
