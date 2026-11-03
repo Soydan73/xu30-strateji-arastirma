@@ -1,6 +1,6 @@
 {
   "surum": "1.02",
-  "kesif_sayaci_KS": 351,
+  "kesif_sayaci_KS": 360,
   "veri": {
     "dosya": "xu30_kesif_m1_gunduz.csv.gz",
     "kaynak": "00-Akis.csv (SHA256 a3e7c018d6f05ea3...)",
@@ -35,7 +35,7 @@
   "son_kosu": "20261103-1233",
   "havuz": {
     "acik": 17,
-    "toplam": 763,
+    "toplam": 764,
     "ml_bekliyor": 55,
     "cok_seans": 64
   }
