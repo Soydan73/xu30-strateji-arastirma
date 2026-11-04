@@ -822,3 +822,33 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-0933,vade_sonu_devir,EN,site:mql5.com/en/articles expiration day OR rollover futures contract intraday strategy,17,0,forum/SSS
 2026-11-04,20261104-0933,vade_sonu_devir,EN,"""post-expiration"" index futures returns first trading days new nearby contract reversal of expiration week price pressure study",10,1,Roslander Aalto
 2026-11-04,20261104-0933,acilis_ilk_saat,EN+TR,video ajanı: 9 sorgu (2 TR) linnsoft traveling IB / ShadowTrader IB / VİOP scalping video / Trader Dale / Unger SOTM / SMB playbook / footprint TR / Reznicek IB / linnsoft homework,123,2,"Linn #13 etiket sayfası, Brian Christopher ilk saat; video tohumları tükendi"
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,association rule mining intraday trading rules stock index futures minute data out-of-sample profitability,10,0,günlük profit mining
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,fuzzy logic trading system intraday index futures rules out-of-sample transaction costs paper,10,3,Vella-Ng WP068-13; Essex tezi; Neurocomputing 2014
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,site:mql5.com/en/articles mixture of experts OR gaussian process trading expert advisor,10,1,mql5 15767
+2026-11-04,20261104-1233,yapay_zeka_ml,TR,bulanık mantık yapay sinir ağı VİOP endeks vadeli al sat sinyali gün içi,10,0,verimsiz; günlük tahmin
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,arxiv mixture of experts regime gating intraday futures trading minute bars transaction costs out-of-sample 2025,10,1,2508.02686 günlük
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,"shapelet OR ""sequential pattern mining"" intraday price patterns futures trading strategy profitability",10,1,Goumatianos KAIS 2017 özet
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,site:tradingview.com/script fuzzy logic trend strategy open source membership,18,1,FibonacciFlux
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,learning classifier system XCS trading rules intraday futures out-of-sample,10,0,yalnız arbitraj
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,site:nexusfi.com machine learning decision tree rules ES intraday what worked feature,10,1,GFIs1 VWAP+Ichimoku
+2026-11-04,20261104-1233,yapay_zeka_ml,EN,site:quantpedia.com decision tree OR fuzzy OR pattern recognition intraday futures strategy,10,1,Kablan-Falzon PDF
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,variance ratio test intraday index futures 1-minute returns mean reversion horizon microstructure paper,10,1,arXiv 2606.29591
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,Ehlers roofing filter mean reversion strategy intraday futures code,18,1,Traders' Tips 2014/01
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,TR,gün içi ortalamaya dönüş stratejisi endeks vadeli Bollinger bandı geri test VİOP 15 dakika,14,1,TV 20 milyon BB testi
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,intraday liquidity provision returns contrarian minute index futures market makers inventory reversal profitability study,10,1,Hendershott-Seasholes
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,site:quantifiedstrategies.com intraday mean reversion strategy S&P 500 futures 5-minute rules backtest,10,1,mql5 17636
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,price reversal at round numbers psychological levels intraday index futures clustering support resistance empirical,10,0,havuzda var
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,CSI 300 index futures high-frequency contrarian strategy minute data intraday reversal after extreme returns transaction costs,10,0,hepsi okunmuş
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,site:robotwealth.com intraday mean reversion futures,17,3,StockSharp 0396; edgeful; Capitalcom TV
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,intraday overreaction low liquidity lunch break midday index futures price reversal afternoon session evidence,10,0,öğle kalıbı doymuş
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,TR,yüksek frekanslı veri aşırı reaksiyon hipotezi Borsa İstanbul kısa vadeli fiyat tersine dönüşü tez dergipark,10,1,Yiğit 2020 aylık
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN,intraday price jumps followed by reversal or continuation index futures 5-minute post-jump returns trading strategy paper,10,2,Fičura; Xiao-Yin-Zhao
+2026-11-04,20261104-1233,vade_sonu_devir,EN,MSCI index rebalancing day emerging markets closing price pressure index futures intraday reversal next day study,10,1,Chang vd. PBFJ 2025
+2026-11-04,20261104-1233,vade_sonu_devir,TR,BIST 30 endeks dönem değişikliği hisse çıkarılması eklenmesi fiyat etkisi olay çalışması dergipark,10,1,Aslan 2019 tezi
+2026-11-04,20261104-1233,vade_sonu_devir,EN,turn of the month effect intraday hours index futures which hours of the day returns concentrated,10,0,günlük; okunmuş
+2026-11-04,20261104-1233,vade_sonu_devir,EN,"""Unintended Consequences of Rebalancing"" Harvey Mazzoleni Melone month-end equity futures",10,1,EDHEC PDF
+2026-11-04,20261104-1233,vade_sonu_devir,EN,site:quantpedia.com OR site:quantifiedstrategies.com month-end rebalancing flows pension last trading day afternoon S&P futures strategy,10,2,Graziani; QS Ultimo
+2026-11-04,20261104-1233,vade_sonu_devir,EN,emerging market index futures expiration day intraday volatility pattern final hour settlement average price evidence Taiwan Brazil Ibovespa futures,10,1,Chow vd. RQFA 2013
+2026-11-04,20261104-1233,vade_sonu_devir,EN,index futures roll period calendar spread price pressure front month intraday roll volume Goldman roll equity index futures study,10,1,BMLL
+2026-11-04,20261104-1233,vade_sonu_devir,EN,"site:tradingview.com/script ""last trading day of the month"" intraday strategy futures",17,2,TV Settlement price; QS son gün
+2026-11-04,20261104-1233,kisa_ufuk_ortalamaya_donus,EN+TR,video ajanı: 5 sorgu (1 TR) RSI2 kısa ufuk video / vade devri video / ML walk-forward meta-labeling video / Unger mean reversion SOTM / TR VİOP vade sonu video,50,1,Unger altın gün içi dönüş sayfası; video tohumları tükenmiş
