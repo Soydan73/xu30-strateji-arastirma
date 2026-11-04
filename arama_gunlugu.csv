@@ -760,3 +760,35 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-0335,diger,EN,site:tradingview.com/script day of week hour of day seasonality strategy intraday heatmap returns futures,10,1,BackQuant
 2026-11-04,20261104-0335,diger,TR,Borsa İstanbul seans içi saatlik getiri haftanın günü etkileşimi pazartesi sabah yüksek frekans makale,10,3,yalnız günlük çalışmalar
 2026-11-04,20261104-0335,acilis_ilk_saat,EN+TR,video ajanı: 3 sorgu (1 TR) ICT silver bullet / liquidity sweep / VİOP FVG,53,1,Trader Dale eşlik sayfası; tohum dinlendirilmeli
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,online learning expert weighting technical trading rules intraday futures exponential weights hedge algorithm out-of-sample,10,1,UCT Murphy tezi
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,tradingview script machine learning k-means volatility clustering adaptive supertrend strategy,17,1,"TV trade_crush, performans yok"
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,site:reddit.com/r/algotrading XGBoost hour of day feature dominates model intraday futures lessons,10,1,zaman penceresi tartışması
+2026-11-04,20261104-0636,yapay_zeka_ml,TR,Borsa İstanbul rassal orman destek vektör makineleri teknik göstergeler alım satım sinyali dergipark işlem maliyeti,10,0,"hepsi günlük, maliyetsiz"
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,site:mql5.com/en/articles self-adaptive indicator weights ensemble signals online learning expert advisor 2025,10,0,mql5 20238 D1
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,site:quantpedia.com machine learning intraday seasonality index futures predictors which time of day,10,0,hepsi okunmuş arXiv
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,arxiv 2026 learned exit timing optimal stopping intraday position deep learning futures close before session end trailing stop versus model,10,0,kuramsal / kripto
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,SSRN 2025 2026 machine learning intraday volatility breakout filter index futures predicted range expansion trading rule net of costs,10,0,okunmuş
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,site:substack.com machine learning intraday futures regime filter which feature mattered backtest commissions minute bars,10,2,"dev.to NIFTY, mql5 22290"
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,arxiv 2026 machine learning predicts profitability of intraday trend-following signal index futures meta-model volatility efficiency ratio features,10,0,Essex DC tezi
+2026-11-04,20261104-0636,yapay_zeka_ml,EN,efficiency ratio OR variance ratio feature machine learning intraday trend continuation prediction futures 5-minute 15-minute paper out-of-sample,10,1,Waldow JRFM 2021
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,midday half-hour return predicts last half-hour index futures intraday momentum lunch break session,10,0,tümü okunmuş
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,leveraged ETF rebalancing late-day momentum last hour index futures predictability study,10,1,CXO Rodier; havuzda var
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,time-series momentum 30-minute bars equity index futures intraday trend following lookback holding period paper,10,0,yalnız günlük TSMOM
+2026-11-04,20261104-0636,intraday_momentum_literaturu,TR,BIST 30 vadeli gün içi momentum etkisi yarım saatlik getiri makale,10,0,aracı kurum bültenleri
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,site:tradingview.com/script intraday momentum last 30 minutes strategy first half hour return,17,0,okunmuş
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,reddit algotrading intraday reversal after large morning move index futures fade afternoon backtest,16,3,zayıf
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,quantpedia intraday momentum reversal market close strategy index ETF 2025,18,3,Quantpedia Awards 2025
+2026-11-04,20261104-0636,intraday_momentum_literaturu,TR,gelişmekte olan piyasalarda gün içi getiri dönüşü öğleden sonra seans Borsa İstanbul yüksek frekans çalışma,10,0,konu dışı tezler
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,intraday momentum index futures 2025 SSRN rest of day noon signal market maker inventory end of day reversal index level,10,3,"Zhang-Hua, GHLZ, Bali"
+2026-11-04,20261104-0636,intraday_momentum_literaturu,EN,substack intraday trend day statistics ES futures close near the high afternoon continuation probability midday range,16,1,TV IvfFeEum
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,turn of the month effect intraday hourly returns stock index futures last trading day of month afternoon,10,1,CXO Carchano-Pardo
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,options expiration day intraday return pattern index futures settlement hour triple witching afternoon reversal study,10,3,"Caporale-Plastun, Gurgul-Suliga"
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,ECB press conference 14:45 CET intraday European index futures drift Euro Stoxx DAX returns announcement day,19,1,Quantpedia pre-ECB
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,TR,Borsa İstanbul ay sonu etkisi ayın son günü getiri gün içi vadeli,10,0,havuzda olanlar
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,TR,VİOP endeks vadeli vade sonu son işlem günü kapanış uzlaşma fiyatı son 10 dakika fiyat hareketi,14,0,aracı kurum PDF; verimsiz
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,site:tradingview.com/script turn of month intraday strategy last day of month buy,13,2,günlük
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,site:reddit.com end of month rebalancing intraday futures afternoon pension flows ES strategy,18,3,reddit sonucu yok
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,European stock market open 9:00 CET spillover emerging market index futures intraday first hour return Europe open effect,10,1,Bondarenko-Muravyev
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,Baltussen Terstegge Whelan The Derivative Payoff Bias special opening quotation expiration,10,0,yanlış PDF
+2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,Bondarenko Muravyev Market Return Around the Clock European open hours pdf,19,1,Alpha Architect özeti
+2026-11-04,20261104-0636,acilis_ilk_saat,EN+TR,video ajanı: 7 sorgu (1 TR) market profile open type / initial balance / VİOP VWAP video / delta divergence / linnsoft homework / opening drive,110,2,Linn Software açılış istatistikleri; video tohumları tükeniyor
