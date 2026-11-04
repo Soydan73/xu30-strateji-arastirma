@@ -792,3 +792,33 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,Baltussen Terstegge Whelan The Derivative Payoff Bias special opening quotation expiration,10,0,yanlış PDF
 2026-11-04,20261104-0636,gun_ici_mevsimsellik,EN,Bondarenko Muravyev Market Return Around the Clock European open hours pdf,19,1,Alpha Architect özeti
 2026-11-04,20261104-0636,acilis_ilk_saat,EN+TR,video ajanı: 7 sorgu (1 TR) market profile open type / initial balance / VİOP VWAP video / delta divergence / linnsoft homework / opening drive,110,2,Linn Software açılış istatistikleri; video tohumları tükeniyor
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,arxiv information-driven bars imbalance bars dollar bars machine learning futures prediction intraday comparison time bars,10,0,hepsi okunmuş / kripto
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,arxiv concept drift retraining frequency machine learning intraday trading futures walk-forward model decay,10,0,2601.00554 SPY günlük log-loss
+2026-11-04,20261104-0933,yapay_zeka_ml,TR,makine öğrenmesi zarar kes kâr al seviyesi optimizasyonu gün içi vadeli işlem algoritmik,10,1,Felder Tübingen tezi
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,site:tradingview.com/script naive bayes OR perceptron strategy intraday probability session,10,3,"2103.13507, TV Perceptron, TV Bayesian Trend"
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,majority voting ensemble of technical indicator signals intraday index futures out-of-sample transaction costs paper consensus signal,10,1,Numin ICAIF'24
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,survival analysis hazard model intraday trend duration prediction futures exit timing paper,10,0,finans dışı
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,site:quantpedia.com machine learning combining trading signals weighting rules dynamic weights performance tracking intraday,10,2,"QuantConnect forumu, TV SignalForge"
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,arxiv prediction horizon choice intraday return predictability decays minutes machine learning futures label horizon 5 15 30 60 minutes trading profitability,10,2,"CXO Liu-Stentoft, label horizon"
+2026-11-04,20261104-0933,yapay_zeka_ml,EN,"""Label Horizon Paradox"" financial forecasting arxiv",10,1,2602.03395
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,Llorente Michaely Saar Wang dynamic volume-return relation intraday futures high volume returns continuation reversal informed hedging trades,10,1,NYU FIN-00-032 (RFS 2002)
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,recurrence quantification analysis intraday returns trading signal determinism laminarity regime stock index futures,10,1,VŞE RQA tezi
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,rolling Hill tail index estimator intraday returns predicts subsequent returns trading strategy high-frequency index,10,0,yalnız kesitsel aylık
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,site:tradingview.com/script Parkinson close-to-close volatility ratio trend detection strategy open source,7,1,BackQuant Parkinson osilatörü
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,site:mql5.com/en/articles Ehlers dominant cycle Hilbert transform trend mode cycle mode expert advisor,7,1,mql5 23444
+2026-11-04,20261104-0933,quant_istatistik_modeller,TR,fiyat hacim ilişkisi bilgili işlem getiri devamı tersine dönme yüksek hacim gün içi Borsa İstanbul makale,10,0,havuzda / betimsel
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,intraday volume-return dynamics 30-minute returns trading volume interaction continuation reversal index futures information asymmetry Llorente intraday,10,0,havuzda
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,site:elitetrader.com OR site:reddit.com Ehlers sinewave cycle mode trend mode futures intraday results backtest,16,2,"elitetrader ITrend, TV Market Mode"
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,ratio of range-based volatility to close-to-close volatility intraday trending versus mean reverting indicator futures paper,10,0,tahminci sayfaları
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,Campbell Grossman Wang trading volume serial correlation intraday high-frequency futures high volume reversal 5-minute returns evidence,10,0,havuzda
+2026-11-04,20261104-0933,quant_istatistik_modeller,EN,arxiv high-low range estimator versus realized variance ratio intraday drift detection trend signal returns predictability,10,2,"Christensen-Podolskij RRV, Korkusuz GK"
+2026-11-04,20261104-0933,vade_sonu_devir,EN,KOSPI 200 futures expiration day program trading unwinding intraday price reversal afternoon basis arbitrage,10,3,"Park-Lim, Yang-Yoo, Stoll-Whaley"
+2026-11-04,20261104-0933,vade_sonu_devir,EN,days to maturity index futures basis mispricing convergence intraday mean reversion expiry week minute data,10,1,Garg AFL
+2026-11-04,20261104-0933,vade_sonu_devir,EN,site:tradingview.com/script futures expiration week OR rollover week strategy,16,0,yalnız devir göstergeleri
+2026-11-04,20261104-0933,vade_sonu_devir,TR,vadeli işlem vade sonu haftası baz daralması spot vadeli fark gün içi davranış BIST 30 çalışma,10,0,günlük nedensellik makaleleri
+2026-11-04,20261104-0933,vade_sonu_devir,EN,site:elitetrader.com OR site:nexusfi.com first days after rollover new front month trend drift ES opex week Monday Tuesday pattern,15,1,EliteTrader Rollover day
+2026-11-04,20261104-0933,vade_sonu_devir,EN,index futures pinning to option strike round number expiration day last hours intraday evidence gravitation strike price,10,1,Golez-Jackwerth JFE 2012
+2026-11-04,20261104-0933,vade_sonu_devir,EN,quantpedia option expiration week effect equity index returns week after expiration,10,3,"Quantpedia #102, QuantifiedStrategies, CXO"
+2026-11-04,20261104-0933,vade_sonu_devir,EN,site:mql5.com/en/articles expiration day OR rollover futures contract intraday strategy,17,0,forum/SSS
+2026-11-04,20261104-0933,vade_sonu_devir,EN,"""post-expiration"" index futures returns first trading days new nearby contract reversal of expiration week price pressure study",10,1,Roslander Aalto
+2026-11-04,20261104-0933,acilis_ilk_saat,EN+TR,video ajanı: 9 sorgu (2 TR) linnsoft traveling IB / ShadowTrader IB / VİOP scalping video / Trader Dale / Unger SOTM / SMB playbook / footprint TR / Reznicek IB / linnsoft homework,123,2,"Linn #13 etiket sayfası, Brian Christopher ilk saat; video tohumları tükendi"
