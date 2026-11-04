@@ -736,3 +736,27 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,"site:mql5.com/en/articles cumulative delta divergence OR ""average trade size"" volume per tick real volume strategy tester results",19,3,"mql5 3708, blog 1290, forum 495778"
 2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,quantpedia OR alphaarchitect intraday order imbalance momentum last half hour futures signed volume strategy results,10,0,okunmuş / konu dışı
 2026-11-04,20261104-0033-video,akis_dengesizligi_delta,EN,"video ajanı: 14 sorgu (1 TR) Trader Dale CVD/akış, ML webinar, MOC, Unger SotM, QuantInsti, IBKR triple barrier",,5,"Trader Dale eşlik sayfaları 4 + MarketChameleon 1 işlendi (5 fikir: 3 TEKRAR, 1 TANIMSIZ, 1 UYGUNSUZ); TR sorgu verimsiz"
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,arxiv rule extraction from gradient boosting surrogate decision tree trading strategy interpretable rules stock index futures out-of-sample,10,1,SRules 2407.20070 (finans dışı)
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,strategy decay detection trading signal health monitoring regime change kill switch algorithmic trading paper CUSUM live performance,10,2,mql5 23043 CUSUM; TV Signal Decay Monitor
+2026-11-04,20261104-0335,yapay_zeka_ml,TR,Borsa İstanbul makine öğrenmesi SHAP değişken önemi karar ağacı al sat kuralı gün içi makale,10,0,verimsiz: yalnız finansal sıkıntı/halka arz
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,site:quantpedia.com machine learning intraday futures simple rule versus complex model out-of-sample,10,1,beehiiv özeti → Aleti-Bollerslev-Siggaard
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,arxiv 2026 LLM agent automated trading strategy discovery data snooping honest evaluation backtest overfitting holdout failure,10,1,2603.14288
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,tradingview script machine learning lorentzian OR logistic regression intraday futures filter session open source probability threshold,7,0,yalnız vitrin
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,"""Intraday Market Return Predictability Culled from the Factor Zoo""",10,1,SUFE özeti; tam metin ücretli
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,site:reddit.com/r/algotrading machine learning model replaced by simple rule one feature threshold same performance futures,16,1,reddit aynası 1srz8i0
+2026-11-04,20261104-0335,yapay_zeka_ml,TR,BIST 30 saatlik OR dakikalık veri XGBoost LSTM yön tahmini işlem maliyeti al sat stratejisi getirisi tez 2026,16,0,verimsiz: günlük tahmin tezleri
+2026-11-04,20261104-0335,yapay_zeka_ml,EN,Aleti Bollerslev Siggaard factor zoo intraday SSRN working paper 30-minute market return lagged factor returns LASSO transaction costs,10,0,PDF yok
+2026-11-04,20261104-0335,quant_istatistik_modeller,EN,financial turbulence Mahalanobis distance intraday returns subsequent trend continuation futures minute data study,10,3,"Kritzman-Li, Hitotsubashi VTI, Stöckl-Hanke; gün içi yok"
+2026-11-04,20261104-0335,quant_istatistik_modeller,EN,bipower variation continuous component versus jump component intraday trend persistence index futures minute returns predictability,10,2,"ABD 2005, Realized Candlestick Wicks"
+2026-11-04,20261104-0335,quant_istatistik_modeller,EN,site:quant.stackexchange.com Kalman filter trend slope state covariance uncertainty trading signal threshold,10,1,verimsiz: yalnız TV KTSF
+2026-11-04,20261104-0335,quant_istatistik_modeller,TR,Borsa İstanbul yüksek frekans sıçrama tespiti gerçekleşmiş oynaklık endeks vadeli gün içi makale,10,0,verimsiz
+2026-11-04,20261104-0335,quant_istatistik_modeller,EN,site:tradingview.com/script Mahalanobis turbulence OR absorption ratio strategy open source,10,1,EdgeTools Absorption Ratio
+2026-11-04,20261104-0335,quant_istatistik_modeller,EN,substack intraday volatility normalized by time-of-day profile z-score breakout continuation futures backtest,10,1,Substack yok; Pineify hacim Z
+2026-11-04,20261104-0335,diger,EN,pre-holiday effect intraday returns index futures half-day trading session hourly pattern study,10,2,"Quantpedia #83, Smit-Smit"
+2026-11-04,20261104-0335,diger,TR,Borsa İstanbul bayram öncesi tatil etkisi getiri arife yarım gün dergipark,20,1,Bilgi tezi; kalanı haber
+2026-11-04,20261104-0335,diger,EN,MSCI rebalancing day emerging market index futures intraday price pressure close reversal study,10,1,UCT Macminn
+2026-11-04,20261104-0335,diger,EN,site:quantifiedstrategies.com day before holiday strategy intraday S&P 500 futures,18,2,"QS substack (paralı), StockSharp 0124"
+2026-11-04,20261104-0335,diger,EN,intraday day-of-the-week effect by hour Monday morning Friday afternoon emerging market index futures Nifty OR KOSPI OR Taiwan minute data,10,3,"WIG20 5 dk, IIMA, Sweeney"
+2026-11-04,20261104-0335,diger,EN,site:tradingview.com/script day of week hour of day seasonality strategy intraday heatmap returns futures,10,1,BackQuant
+2026-11-04,20261104-0335,diger,TR,Borsa İstanbul seans içi saatlik getiri haftanın günü etkileşimi pazartesi sabah yüksek frekans makale,10,3,yalnız günlük çalışmalar
+2026-11-04,20261104-0335,acilis_ilk_saat,EN+TR,video ajanı: 3 sorgu (1 TR) ICT silver bullet / liquidity sweep / VİOP FVG,53,1,Trader Dale eşlik sayfası; tohum dinlendirilmeli
