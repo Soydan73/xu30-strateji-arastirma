@@ -887,3 +887,17 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-1533,seans_sonu_akisi,EN,site:prorealcode.com DAX end of day strategy last hour entry close 17:30 intraday,18,1,ProRealCode Last Minute Bar
 2026-11-04,20261104-1533,seans_sonu_akisi,EN,"""end of day"" OR ""last hour"" volume surge relative volume afternoon index futures direction continuation statistics paper intraday volume shock return",10,1,Abyankar-Copeland-Wong 1999
 2026-11-04,20261104-1533,diger,EN+TR,video ajanı: 11 sorgu (1 TR) Axia absorption / Raschke / VİOP son saat video / Grimes pullback / NR breakout video / Hougaard DAX / Brooks H2L2 / Quantpedia webinar / failed auction Axia / ML video / trend day vs range day,190,8,Axia 4; Jigsaw; Optimus; Topstep Grimes; emini-watch; footprint/emilim tohumu doymuş
+2026-11-04,20261104-1833,oynaklik_rejimi,EN,intraday leverage effect high-frequency index futures negative return volatility asymmetry predict subsequent returns minutes,10,2,"Hibbert JBF 2008, Badshah IRFA 2016; VIX tabanlı, yön kuralı yok"
+2026-11-04,20261104-1833,oynaklik_rejimi,EN,site:tradingview.com/script fractal dimension index regime filter strategy intraday trend range,10,1,AlgoChief; FDI ailesi TEKRAR
+2026-11-04,20261104-1833,oynaklik_rejimi,TR,gün içi volatilite kümelenmesi kaldıraç etkisi Borsa İstanbul vadeli yüksek frekans,10,0,yalnız tahvil piyasası çalışması
+2026-11-04,20261104-1833,oynaklik_rejimi,EN,Schwager volatility ratio wide range bar intraday follow-through futures backtest,10,1,yalnız tanım sayfası
+2026-11-04,20261104-1833,oynaklik_rejimi,EN,intraday realized range OR range-based volatility spike direction index futures 1-minute ssrn,10,2,"Liao JFM 2026, Martens-van Dijk"
+2026-11-04,20261104-1833,oynaklik_rejimi,EN,site:mql5.com/en/articles Garman-Klass OR Parkinson OR Yang-Zhang volatility estimator expert advisor regime entry,7,1,mql5 23830; kural yok
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,average trade size OR number of trades feature machine learning intraday index futures return prediction most important predictor,10,1,Bellwether Trades 2409.05192
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,site:mql5.com/en/articles Dmitrievsky causal inference OR meta-learner OR clustering trading,10,1,mql5 11147
+2026-11-04,20261104-1833,yapay_zeka_ml,TR,makine öğrenmesi en önemli değişken hacim teknik gösterge 15 dakikalık BIST 30 vadeli kontrat al sat,10,0,yalnız günlük dergipark; verimsiz
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,arxiv recursive least squares OR adaptive linear filter online regression intraday futures returns trading rule out-of-sample costs,10,1,mql5 23335
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,random forest candlestick features upper shadow lower shadow body ratio intraday futures feature importance out-of-sample trading,10,1,JRFM 18/3/142 negatif kanıt
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,site:tradingview.com/script machine learning buy sell volume delta classifier strategy open source,7,1,Viprasol Naive Bayes
+2026-11-04,20261104-1833,yapay_zeka_ml,EN,arxiv cost-aware labeling no-trade class minimum profitable move threshold classification intraday futures trading transaction costs,10,2,2503.09988
+2026-11-04,20261104-1833,diger,EN+TR,video ajanı: 6 sorgu (1 TR) fair value gap futures video / VİOP gün içi strateji video / FVG fill statistics / trader-dale FVG / order block displacement / linnsoft homework,60,3,trader-dale FVG verimli; TR VİOP video yine verimsiz
