@@ -708,3 +708,31 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-03,20261103-2133,intraday_momentum_literaturu,EN,"""Effectiveness of filter trading as an intraday trading rule""",10,0,SEF 2018 okunmuş
 2026-11-03,20261103-2133,oynaklik_rejimi,EN,arxiv 2026 intraday volatility regime index futures momentum reversal minute returns realized jump empirical strategy,10,0,hepsi okunmuş
 2026-11-03,20261103-2133-video,oynaklik_rejimi,EN,"video ajanı: 5 sorgu (1 TR) Unger SotM oynaklık süzgeci, meta-etiketleme video, oynaklık hedefleme webinarı, RV rejim konuşması",,0,"Unger 6915/6972/6891/6931 işlendi (3 fikir: 2 TEKRAR, 1 TANIMSIZ); diğerleri videosuz"
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,meta-labeling triple barrier intraday futures net of transaction costs out-of-sample results paper,10,0,çoğu TV aynası / okunmuş
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,CSI 300 stock index futures intraday machine learning prediction trading strategy minute data feature importance,10,1,Chen vd. IEEE Access (kural yok)
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,explainable boosting machine SHAP intraday futures return most important feature trading rule,10,0,okunmuş / konu dışı
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,site:mql5.com/en/articles meta-labeling triple barrier expert advisor random forest filter,7,2,"Njoroge 22274, 22911"
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,site:reddit.com/r/algotrading feature importance intraday futures model most predictive feature volume imbalance time of day,10,1,1rrbdx5 (TEKRAR)
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,CSI 300 index futures IF intraday return predictability machine learning high-frequency features trading strategy transaction costs,10,3,"1912.10343, 2501.03171, hrcak 437923"
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,genetic programming symbolic regression intraday trading rule stock index futures 5-minute out-of-sample profitability paper,10,0,"eski GP, okunmuş"
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,random forest intraday direction prediction futures feature importance order imbalance most important minute bars paper 2024,10,0,hepsi okunmuş
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,"""meta-labeling"" journal of financial data science Joubert OR Meyer OR Barziy signal efficacy trend following results",10,2,"Insper tezi, mql5 23310"
+2026-11-04,20261104-0033,yapay_zeka_ml,EN,intraday stock index futures machine learning volume imbalance OR buy volume feature most important SHAP 30-minute return prediction emerging market,10,1,"Yang-He IJFS 2026 (IVU, F-20261104-01)"
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,price pressure before closing call auction emerging market index stocks intraday return last minutes,10,2,"CUHK, Bogousslavsky-Muravyev"
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,DAX futures intraday returns around US market open 15:30 CET predictability afternoon Europe study,10,1,Innocenti vd. (TEKRAR F-20261014-80)
+2026-11-04,20261104-0033,seans_sonu_akisi,TR,Borsa İstanbul kapanış seansı ağırlıklı ortalama fiyat gün içi getiri volatilite dergipark,10,1,Kadıoğlu-Küçükkocaoğlu BDDK (bağlam)
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,site:tradingview.com/script lunch break afternoon session trend reversal strategy index futures,17,1,TV dh4cliQM
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,"arXiv intraday momentum futures ""U.S. open"" European index futures overlap 2024 2025",10,0,haber / broker blogları
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,"market on close orders execution price impact afternoon drift index futures ""end-of-day"" benchmark tracking SSRN",10,1,arXiv 2506.21775
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,mql5.com articles intraday time of day filter afternoon session trend strategy DAX index backtest,17,2,"prorealcode DAX zaman sistemi, mql5 blog 755302"
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,"""NY Lunch Model"" backtesting tradingview script Sunmool",7,1,aynı script
+2026-11-04,20261104-0033,seans_sonu_akisi,EN,"quantpedia OR robotwealth OR ""alvarez quant"" midday reversal intraday index futures lunch hour statistics strategy",18,3,"StockSharp 0128/0130, risk.net (hepsi TEKRAR)"
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,active buying ratio index futures intraday return predictability China CSI 300 OR KOSPI 200 OR Nifty buyer-initiated trades paper,10,2,"Yan-Ouyang, Sohn-Zhang"
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,hourly cumulative order imbalance next hour return futures minute data intraday momentum signed volume study,19,1,2507.22712
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,site:tradingview.com/script CVD divergence strategy backtest 15 minute higher high lower delta,17,1,UAlgo YeznJyfS (TEKRAR)
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,absorption high volume narrow range bar subsequent returns futures empirical study volume price compression reversal,10,2,"Dots3Red, BeatingSmartMoney (TEKRAR)"
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,Lillo Farmer long memory order flow sign trading strategy exploit predictability transaction costs empirical,10,1,Sato-Kanazawa (olumsuz ön kanıt)
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,order imbalance intraday return predictability Taiwan index futures TAIFEX OR Korea KOSPI200 futures buyer-initiated volume 30-minute,10,1,Chang-Shie EMFT 2011 (F-20261104-16); Hanyang erişilemedi
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,"site:mql5.com/en/articles cumulative delta divergence OR ""average trade size"" volume per tick real volume strategy tester results",19,3,"mql5 3708, blog 1290, forum 495778"
+2026-11-04,20261104-0033,akis_dengesizligi_delta,EN,quantpedia OR alphaarchitect intraday order imbalance momentum last half hour futures signed volume strategy results,10,0,okunmuş / konu dışı
+2026-11-04,20261104-0033-video,akis_dengesizligi_delta,EN,"video ajanı: 14 sorgu (1 TR) Trader Dale CVD/akış, ML webinar, MOC, Unger SotM, QuantInsti, IBKR triple barrier",,5,"Trader Dale eşlik sayfaları 4 + MarketChameleon 1 işlendi (5 fikir: 3 TEKRAR, 1 TANIMSIZ, 1 UYGUNSUZ); TR sorgu verimsiz"
