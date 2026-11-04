@@ -901,3 +901,23 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-1833,yapay_zeka_ml,EN,site:tradingview.com/script machine learning buy sell volume delta classifier strategy open source,7,1,Viprasol Naive Bayes
 2026-11-04,20261104-1833,yapay_zeka_ml,EN,arxiv cost-aware labeling no-trade class minimum profitable move threshold classification intraday futures trading transaction costs,10,2,2503.09988
 2026-11-04,20261104-1833,diger,EN+TR,video ajanı: 6 sorgu (1 TR) fair value gap futures video / VİOP gün içi strateji video / FVG fill statistics / trader-dale FVG / order block displacement / linnsoft homework,60,3,trader-dale FVG verimli; TR VİOP video yine verimsiz
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,"convolutional neural network price chart images intraday futures trading minute bars out-of-sample transaction costs ""re-imagining"" OR ""imaging"" price trends high frequency",10,2,JKX JF 2023
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,echo state network OR reservoir computing intraday stock index futures trading strategy out-of-sample profitability,10,0,2504.19623 havuzda
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,site:mql5.com/en/articles echo state network OR extreme learning machine OR reservoir computing expert advisor,10,0,kural yok
+2026-11-04,20261104-2133,yapay_zeka_ml,TR,evrişimli sinir ağı mum grafik görüntü sınıflandırma alım satım sinyali Borsa İstanbul,10,1,dergipark bbd 1399935
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,CNN candlestick chart images intraday 5-minute OR 1-minute index futures direction trading strategy temporal split transaction costs Grad-CAM pattern learned,10,2,2605.00875; 1903.04610
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,"site:tradingview.com/script image-based OR ""chart image"" OR ""pattern image"" machine learning strategy open source intraday similarity",7,0,benzerlik ailesi TEKRAR
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,site:reddit.com/r/algotrading CNN on chart images intraday futures results did it work out-of-sample,17,1,BSIC; reddit aynası bot korumalı
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,extreme learning machine OR random vector functional link intraday stock index futures high-frequency trading rule out-of-sample transaction costs,10,0,
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,Gramian angular field OR recurrence plot images intraday futures minute data trading strategy out-of-sample net of costs 2025,10,1,alt ajan sınırı (8) aşıldı
+2026-11-04,20261104-2133,yapay_zeka_ml,EN,"intraday ""image"" CNN high-frequency stock index futures CSI 300 OR KOSPI 200 1-minute 5-minute candlestick images return prediction trading backtest",10,1,alt ajan sınırı (8) aşıldı
+2026-11-04,20261104-2133,quant_istatistik_modeller,EN,extreme value theory peaks over threshold intraday returns tail exceedance predicts subsequent return reversal index futures high-frequency,10,2,yalnız risk ölçüsü
+2026-11-04,20261104-2133,quant_istatistik_modeller,EN,"site:mql5.com/en/articles Mann-Kendall OR ""Sen slope"" OR ""sequential probability ratio"" trend test expert advisor",7,1,mql5 16678
+2026-11-04,20261104-2133,quant_istatistik_modeller,EN,record statistics number of new highs lows random walk test intraday trend detection financial time series arxiv,10,1,Wergen 1103.0893
+2026-11-04,20261104-2133,quant_istatistik_modeller,EN,"site:tradingview.com/script Goertzel OR ""Lempel-Ziv"" OR ""spectral"" dominant cycle strategy open source",7,1,TANIMSIZ
+2026-11-04,20261104-2133,acilis_ilk_saat,EN,price impact per unit signed volume first 30 minutes Kyle lambda opening liquidity predicts intraday trend persistence index futures study,10,2,Webb-Ryu; TV kylelambda
+2026-11-04,20261104-2133,acilis_ilk_saat,EN,"site:nexusfi.com scaling in OR ""add to winner"" OR pyramiding opening drive first hour pullback entry statistics ES",18,1,anekdot
+2026-11-04,20261104-2133,acilis_ilk_saat,TR,pay piyasası sürekli işlem 10:00 öncesi VİOP endeks vadeli fiyat keşfi spot vadeli öncülük dakikalık veri makale,16,0,bültenler
+2026-11-04,20261104-2133,acilis_ilk_saat,EN,timing of first intraday reversal after market open duration of opening trend high volume opening minutes momentum versus reversal stock index futures empirical,10,1,Kudryavtsev 2012
+2026-11-04,20261104-2133,intraday_momentum_literaturu,EN,NASDAQ-100 index futures intraday momentum reversal overnight return previous day return Journal of Investment Management,10,1,kart HK-20261104-15 kaynağı (özet)
+2026-11-04,20261104-2133-video,akis_dengesizligi_delta,EN+TR,video ajanı: 4 sorgu (1 TR) Valentini scalper (ayna siteler) / Valtos delta divergence / TR VİOP emir akışı emilim video (0) / Unger SotM 2026,,1,Trader Dale eşlik sayfası (TEKRAR); Unger 7005/8772 videosuz
