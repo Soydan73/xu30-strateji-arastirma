@@ -921,3 +921,25 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-04,20261104-2133,acilis_ilk_saat,EN,timing of first intraday reversal after market open duration of opening trend high volume opening minutes momentum versus reversal stock index futures empirical,10,1,Kudryavtsev 2012
 2026-11-04,20261104-2133,intraday_momentum_literaturu,EN,NASDAQ-100 index futures intraday momentum reversal overnight return previous day return Journal of Investment Management,10,1,kart HK-20261104-15 kaynağı (özet)
 2026-11-04,20261104-2133-video,akis_dengesizligi_delta,EN+TR,video ajanı: 4 sorgu (1 TR) Valentini scalper (ayna siteler) / Valtos delta divergence / TR VİOP emir akışı emilim video (0) / Unger SotM 2026,,1,Trader Dale eşlik sayfası (TEKRAR); Unger 7005/8772 videosuz
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,RuleFit rule ensemble interpretable trading rules intraday stock index futures returns out-of-sample,10,0,genel kural çıkarma yöntemleri; gün içi yok
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,rough set theory decision rules stock index futures intraday trading rules out-of-sample profitability,10,3,"KOSPI200 rough set (RCTS, KAIST, Lee-Ahn-Oh-Kim)"
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,accumulated local effects OR partial dependence nonlinear threshold intraday return prediction order imbalance machine learning futures paper,10,0,2507.22712/2602.00776 havuzda
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,site:tradingview.com/script matrix profile OR SAX motif discovery strategy open source,7,0,yalnız kütüphaneler
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,site:mql5.com/en/articles quantile regression OR probability calibration OR rough set trading rules expert advisor,10,3,mql5 23719 / 24194 / 24480
+2026-11-05,20261105-0033,yapay_zeka_ml,TR,kaba küme teorisi borsa alım satım kuralı vadeli işlem karar kuralları,10,0,verimsiz
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,site:reddit.com/r/algotrading gradient boosting partial dependence plot threshold turned into simple rule intraday futures,7,0,reddit gelmedi
+2026-11-05,20261105-0033,yapay_zeka_ml,EN,KOSPI 200 futures intraday reinforcement learning OR genetic algorithm trading rules 30-minute bars transaction costs out-of-sample learned rule interpretation,10,2,koreascience PRTS; KAIST 1998-220
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,evaporating liquidity OR reversal strategy returns liquidity provision time-varying intraday index futures VIX conditional reversal,10,1,Nagel w17653 (TEKRAR mekanizma)
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,optimal entry exit thresholds Ornstein-Uhlenbeck intraday trading single futures transaction costs Leung Li optimal stopping empirical,10,1,Leung-Li 1411.5062 erişilemedi
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,site:mql5.com/en/articles volume climax exhaustion reversal real volume buy sell,18,1,StockSharp 0115
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,site:tradingview.com/script open-source Ornstein-Uhlenbeck half-life entry exit strategy intraday,7,1,JOAT (TEKRAR)
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,intraday reversal conditional on volatility level index futures high-frequency liquidity provision profits market stress minute returns journal,10,0,hepsi okunmuş
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,site:nexusfi.com OR site:elitetrader.com selling climax OR capitulation volume spike reversal ES intraday statistics tested,19,1,TV CaMMEfwd
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,TR,ortalamaya dönüş yarı ömrü Ornstein-Uhlenbeck Borsa İstanbul yüksek frekans getiri hacim ilişkisi tersine dönüş,10,2,"TR kaynak yok; 1507.01610, Chakraborty-Kearns"
+2026-11-05,20261105-0033,kisa_ufuk_ortalamaya_donus,EN,site:quantpedia.com short-term reversal stronger high volatility VIX conditional liquidity provision index,10,1,QP 808 (DMS)
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: Build Alpha video intraday mean reversion futures rules time of day exit,17,0,aynalar
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: Kevin Davey video end of day close futures last hour entry rules,18,1,ProRealCode Davey
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: video futures afternoon reversal fade last 90 minutes ES transcript,15,1,TV JjWFcHPh
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,TR,video ajanı: endeks vadeli gün içi aşırı sapma ortalamaya dönüş video anlatım kuralları,15,0,video yok
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: kjtradingsystems Kevin Davey mini nasdaq algo fully disclosed rules intraday,19,0,kurs sayfaları
+2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: Trading Rush tested 100 times mean reversion strategy rules,10,0,videosuz bloglar
