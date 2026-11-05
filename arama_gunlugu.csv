@@ -1109,3 +1109,40 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-1545-video,vade_sonu_devir,EN,video ajanı: futures rollover week day trading video what to expect volume shift strategy index futures roll trading tips transcript,16,1,Simpler Trading eşlik metni
 2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,"video ajanı: Hurst exponent OR ""variance ratio"" trading strategy video explained intraday futures rules entry exit tested results 2025",18,0,videosuz
 2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,"video ajanı: Quantpedia OR ""Better System Trader"" podcast video intraday index futures statistical edge show notes",20,0,podcast/ayna
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,quantile autoregression intraday returns stock index futures asymmetric predictability trading strategy,10,2,Todorova cross-quantilogram; Baur-Dimpfl-Jung QAR
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,double machine learning causal effect order flow imbalance intraday returns futures,10,0,hepsi havuzda
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,"site:mql5.com/en/articles ""Neural Networks in Trading"" 2026",20,1,mql5 24146; 24612/21362 erişilemedi
+2026-11-05,20261105-1858,yapay_zeka_ml,TR,kantil regresyon Borsa İstanbul gün içi getiri öngörülebilirlik yüksek frekans,10,0,okunmuş/haber
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,"site:tradingview.com/script machine learning strategy session intraday ""walk-forward"" 2026 open-source futures",16,1,CocoChoco SPY; WF görselleştirici
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,arxiv 2026 intraday futures conditional machine learning time-of-day interaction features ES NQ,10,1,"SozAI NQ 2,4M dakika transkripti"
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,autoencoder reconstruction error market state anomaly intraday trading strategy futures minute,10,0,konu dışı
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,SINDy sparse identification nonlinear dynamics financial time series trading signal returns,10,0,finans dışı
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,isotonic regression calibrated signal monotone mapping indicator to expected return trading intraday paper,10,0,mql5 21938 havuzda
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,sign predictability of returns volatility dynamics intraday high-frequency Christoffersen Diebold direction-of-change,10,1,NBER w10009
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,site:quantpedia.com machine learning intraday trading strategy 2025 2026 blog,10,0,Quantzee tanıtım
+2026-11-05,20261105-1858,yapay_zeka_ml,TR,VİOP yapay zeka algoritmik işlem robotu deneyim endeks vadeli makine öğrenmesi backtest sonuç forum,10,1,Bahtlı-Salur 2025
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,quantile regression forecast intraday price range remaining session stop-loss take-profit placement futures paper,10,0,havuzda
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,arxiv 2026 q-fin.TR machine learning intraday index futures simple rule benchmark,10,0,havuzda; 2603.01820 erişilemedi
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,PCMCI causal discovery intraday returns signed volume volatility high-frequency futures,10,1,Letteri 2507.09347
+2026-11-05,20261105-1858,yapay_zeka_ml,EN,machine learning morning session features predict afternoon return direction stock index futures intraday,10,1,reddit SPY açılış öncesi ML
+2026-11-05,20261105-1858,diger,EN,Turkey CPI inflation announcement 10:00 Borsa Istanbul intraday reaction high frequency stock index futures,10,1,Gök-Topuz SDU künyesi
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,index futures open 15 minutes before cash market pre-opening futures trading price discovery reversal at stock market open Taiwan Hong Kong,10,0,polyu boş
+2026-11-05,20261105-1858,diger,TR,Borsa İstanbul seans saatleri değişikliği öğle arası kaldırılması oynaklık hacim etkisi makale,10,1,mondovisione duyurusu
+2026-11-05,20261105-1858,acilis_ilk_saat,PT,site:mql5.com mini índice WIN abertura estratégia primeira hora B3 expert advisor,7,0,yalnız Market
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,"""open equals low"" OR ""open = low"" first 30 minutes intraday strategy index futures statistics backtest",10,2,"tradingqna, trendlyne"
+2026-11-05,20261105-1858,diger,EN,Ibovespa mini index futures intraday return predictability opening first half hour microstructure paper,10,1,Ekinci 2004
+2026-11-05,20261105-1858,diger,EN,Friday prayer effect intraday trading volume returns stock market Muslim countries Turkey midday,10,1,Ali vd. 2017
+2026-11-05,20261105-1858,diger,EN,European market open spillover emerging market index futures intraday Xetra 09:00 opening effect Borsa Istanbul volatility transmission minute,10,1,Okur-Cevik 2013
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,site:tradingview.com/script opening drive first pullback entry after open strategy open-source retracement 50% opening move,7,2,AGPro serisi
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,site:nexusfi.com initial balance extension statistics probability 1.5x 2x IB range extension rotation ES,16,2,"TV IB Stats, reddit"
+2026-11-05,20261105-1858,diger,TR,dergipark VİOP BIST 30 endeks vadeli kontrat gün içi oynaklık hacim deseni dakikalık veri seans açılışı,10,0,aylık çalışmalar
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,site:quantpedia.com opening minutes OR first half-hour index futures intraday strategy emerging markets,10,1,QuantRocket first_last.py
+2026-11-05,20261105-1858,acilis_ilk_saat,EN,site:mql5.com/en/articles opening range pullback OR retracement session open expert advisor backtest results index,7,1,mql5 blog 771405/770189
+2026-11-05,20261105-1858,diger,EN,arxiv q-fin intraday opening session price efficiency variance ratio first hour index futures emerging market 2025,10,1,Fassas-Siriopoulos 2019
+2026-11-05,20261105-1858,diger,TR,TÜİK enflasyon açıklaması saat 10:00 BIST 100 VİOP anlık tepki etki çalışması yüksek frekans makale,10,0,haber/bülten
+2026-11-05,20261105-1858-video,yapay_zeka_ml,EN,video ajanı: video machine learning opening range first hour futures strategy features walk-forward written rules accompanying blog,14,0,ayna siteler
+2026-11-05,20261105-1858-video,acilis_ilk_saat,TR,video ajanı: VİOP 30 açılış ilk saat işlem stratejisi video anlatım kurallar,16,0,TR video yok
+2026-11-05,20261105-1858-video,acilis_ilk_saat,EN,"video ajanı: ""opening drive"" OR ""first 30 minutes"" futures day trading video rules statistics study page 2026",18,2,"FXStreet, Jigsaw 39053"
+2026-11-05,20261105-1858-video,yapay_zeka_ml,EN,video ajanı: webinar recording machine learning intraday index futures classifier first hour predict rest of day direction results,10,0,yalnız akademik
+2026-11-05,20261105-1858-video,diger,EN,"video ajanı: ""day trading the open"" video futures setup first minutes rules page jigsaw OR ""opening auction"" order flow video 2025",18,2,"Jigsaw 40085, 39454"
+2026-11-05,20261105-1858-video,yapay_zeka_ml,EN,video ajanı: video machine learning filter opening range breakout success probability features volume gap youtube tutorial code results futures,7,0,ORB (H-K1 kapalı)
