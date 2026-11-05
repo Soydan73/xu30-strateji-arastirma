@@ -977,3 +977,29 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,EN,video ajanı: intraday seasonality index futures webinar recording Seasonax hour of day pattern trading rule,10,0,Seasonax ?p=12639 (yalnız bölüm başlıkları)
 2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,TR,video ajanı: VİOP endeks vadeli öğleden sonra saat 15:30 16:30 ABD açılışı etkisi video eğitim strateji,16,0,yalnız bültenler
 2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,EN,video ajanı: tastylive episode intraday time of day /ES futures hourly returns study first hour last hour,10,0,tastylive bölümü açılmadı
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,MDA MDI clustered feature importance intraday futures returns minute bars which feature dominates,10,2,mql5 Njoroge Blueprint 20/21 (sentetik)
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,RTS index futures MOEX intraday machine learning minute data trading strategy transaction costs,10,2,Ponomarev 2002.11523; Qt Report RTS
+2026-11-05,20261105-1033,yapay_zeka_ml,TR,hacim ağırlıklı ortalama fiyat VWAP sapması makine öğrenmesi Borsa İstanbul gün içi işlem stratejisi,10,1,sözlük sayfaları; 2206.14932
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,site:mql5.com/en/articles permutation feature importance SHAP select features expert advisor,7,0,yalnız forum
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,site:tradingview.com/script machine learning VWAP KNN classifier intraday session strategy open source,7,2,JrNGYWFz; VKQOG86C
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,meta-labeling primary model high recall rule design which primary signal improves most precision intraday,10,3,2510.26353; Hudson&Thames; Jesse
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,machine learning volume profile point of control distance feature intraday futures direction prediction paper,10,2,TV VWAP Regime AI; Dots3Red; akademik yok
+2026-11-05,20261105-1033,yapay_zeka_ml,EN,Nifty index futures intraday machine learning SHAP VWAP distance most important feature walk-forward,10,0,hepsi önceden okunmuş
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,arXiv intraday deviation from VWAP time-of-day reversion speed afternoon versus morning empirical,10,1,Genet 2502.18177
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,site:tradingview.com/script VWAP slope regime filter strategy open-source intraday trend,7,2,KedarArc; BackQuant
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,market profile single prints poor high poor low excess intraday statistics revisit probability futures,10,1,NexusFi tek baskı/zayıf tepe
+2026-11-05,20261105-1033,hacim_profili_vwap,TR,hacim ağırlıklı ortalama fiyat gün içi sapma getiri Borsa İstanbul vadeli dakikalık çalışma,14,0,bültenler; Marmara tezi okunmuş
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,"""double distribution"" day market profile trend day bimodal volume profile intraday rules separation",10,2,therighttrader; NexusFi gün tipleri
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,ssrn VWAP benchmark execution institutional order flow price pressure index futures intraday volume curve participation,10,0,eğitim sayfaları
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,site:mql5.com/en/articles developing point of control expert advisor intraday session profile shift,7,0,Market ürünleri
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,arxiv price returns intraday volume-weighted price momentum VWAP signal minute data futures predictability 2026,10,1,2601.06499 Alpha191
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,site:nexusfi.com VWAP slope flat versus trending rotation day statistics rules,14,0,havuzda
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,thesis market profile intraday trading strategy backtest TPO initial balance value area index futures out-of-sample results,10,0,tez yok
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,VWAP TWAP difference price-volume covariance intraday factor return predictability high-frequency,10,1,Cucuringu 2505.08180 (hacim tahmini)
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,intraday price-volume correlation high-frequency factor reversal journal minute data within-day volume concentrated at high prices,10,1,Zhao-Wei-Wang JMSC
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,intraday price-volume correlation stock returns paper minute-level correlation between price and volume predicts,10,2,Polinsky-Zhang SFU; Press 2305.08241
+2026-11-05,20261105-1033,hacim_profili_vwap,EN,Nifty index futures VWAP intraday trading strategy empirical study journal transaction costs 1-minute,10,1,Mitchell-Białkowski-Tompaidis
+2026-11-05,20261105-1033-video,oynaklik_rejimi,EN,video ajanı: video volatility contraction expansion intraday futures strategy rules ATR ratio low volatility skip trading webinar written summary,18,1,Rayner L17
+2026-11-05,20261105-1033-video,oynaklik_rejimi,TR,video ajanı: VİOP endeks vadeli volatilite daralması sıkışma kırılım stratejisi video anlatım ATR,14,0,TR video kaynağı yok
+2026-11-05,20261105-1033-video,oynaklik_rejimi,EN,video ajanı: Al Brooks barbwire tight trading range video Emini when not to trade rules,16,1,Brooks p=264033/264303
+2026-11-05,20261105-1033-video,oynaklik_rejimi,EN,video ajanı: System Trader Success video volatility filter intraday Emini strategy ATR regime EasyLanguage rules,19,0,videosuz TV scriptleri
