@@ -943,3 +943,37 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,TR,video ajanı: endeks vadeli gün içi aşırı sapma ortalamaya dönüş video anlatım kuralları,15,0,video yok
 2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: kjtradingsystems Kevin Davey mini nasdaq algo fully disclosed rules intraday,19,0,kurs sayfaları
 2026-11-05,20261105-0033-video,kisa_ufuk_ortalamaya_donus,EN,video ajanı: Trading Rush tested 100 times mean reversion strategy rules,10,0,videosuz bloglar
+2026-11-05,20261105-0333,yapay_zeka_ml,PT,mini índice WIN futuro aprendizado de máquina intradiário estratégia custos de transação fora da amostra,10,1,"UNIPAMPA WIN tezi (kural tabanlı, net negatif)"
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,TAIEX futures intraday machine learning trading strategy 1-minute out-of-sample transaction costs paper,10,0,NYCU/NCCU DSpace boş
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,Ernest Chan conditional parameter optimization machine learning trading strategy parameters results,10,1,epchan CPO
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,"arxiv trend scanning labels OR ""trend-scanning"" intraday futures ML classification out-of-sample",10,1,mql5 19253
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,Nikkei 225 futures intraday machine learning order flow prediction trading strategy transaction costs,10,1,Mangat vd. DSFE 2022
+2026-11-05,20261105-0333,yapay_zeka_ml,TR,yapay zeka ile üretilen al sat stratejisi geriye dönük test ChatGPT strateji performansı borsa vadeli,10,1,Quantpedia ChatGPT; dergipark konu dışı
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,site:tradingview.com/script machine learning adaptive threshold strategy walk-forward feature selection open source 2025,10,1,PhenLabs (günlük/4 saat)
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,arxiv 2026 LLM evaluates OR proposes technical trading rules intraday futures backtest minute data deflated Sharpe,10,1,SysTradeBench 2604.04812
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,Ibovespa index futures intraday machine learning high-frequency prediction trading strategy Brazil B3 transaction costs paper,10,2,"USP tezi, RBFin 2012"
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,site:elitetrader.com machine learning ES futures intraday model overfit walk-forward what features actually work,10,1,ET 312136
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,L1 regularized logistic regression sparse model intraday futures direction few predictors out-of-sample net of costs,10,0,verimsiz
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,machine learning filter opening range breakout trades futures meta-model classifier out-of-sample results paper,10,3,"algorithmictoken, WPI IQP, mql5 17466 Darvas"
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,Bayesian online changepoint detection intraday trading strategy futures minute bars backtest arxiv,10,0,verimsiz
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,temporal fusion transformer intraday futures returns interpretability variable selection trading costs,10,0,günlük/FX
+2026-11-05,20261105-0333,yapay_zeka_ml,EN,Taiwan index futures TX intraday machine learning trading rules 5-minute out-of-sample transaction costs journal,10,2,"NTU AdaBoost, MDPI EP 74/56"
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,autoregressive conditional duration trade intensity predicts intraday price direction futures trading signal,10,1,Tay vd. QF
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,two-scale realized volatility ratio microstructure noise signal-to-noise intraday trend predictability returns,10,0,yalnız tahminci teorisi
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,price cumulative volume delta cointegration error correction intraday futures mean reversion,10,1,Giannopoulos 2025
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,site:tradingview.com/script Lo MacKinlay variance ratio test strategy,10,1,FRACTAL-LAB korumalı
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,"intraday trade duration clustering ""time between trades"" acceleration predicts short-term price continuation futures",10,2,"Dungey vd., Gurgul vd."
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,realized kurtosis intraday predicts subsequent volatility range breakout index futures high-frequency,10,0,marj/risk
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,site:mql5.com/en/articles Kalman filter innovation residual z-score trading expert advisor,10,1,mql5 24567
+2026-11-05,20261105-0333,quant_istatistik_modeller,TR,gerçekleşmiş çarpıklık basıklık yüksek frekans getiri öngörüsü Borsa İstanbul dergipark,10,1,Yener-Eroğlu 2022
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,inverse statistics gain-loss asymmetry waiting time return level intraday index futures trading strategy,10,1,Simonsen vd.
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,"site:quantpedia.com intraday skewness OR kurtosis OR ""higher moments"" futures strategy",10,1,Amaya vd. (kesitsel)
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,"site:tradingview.com/script Kalman filter slope t-statistic OR ""signal to noise"" trend confidence open source",7,1,AetherEdge Kalman
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,arxiv intraday price acceleration second derivative momentum trend curvature predict returns futures,10,0,LuxAlgo kavram
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,site:reddit.com/r/algotrading short-term vs long-term realized volatility ratio regime filter intraday futures,10,0,ayna
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,intraday leverage effect 1-minute index futures negative returns raise subsequent volatility asymmetric volatility,10,1,Badshah vd. IRFA 2016
+2026-11-05,20261105-0333,quant_istatistik_modeller,EN,"substack OR robotwealth ""variance ratio"" intraday ES futures trending vs mean reverting days",18,3,"harbourfront, volvibes, nexusfi"
+2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,EN,"video ajanı: ""time of day"" futures strategy video transcript ""half hour"" seasonality ES backtest rules written summary",19,0,yalnız ayna/özet siteleri ve önceden okunmuş
+2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,EN,video ajanı: intraday seasonality index futures webinar recording Seasonax hour of day pattern trading rule,10,0,Seasonax ?p=12639 (yalnız bölüm başlıkları)
+2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,TR,video ajanı: VİOP endeks vadeli öğleden sonra saat 15:30 16:30 ABD açılışı etkisi video eğitim strateji,16,0,yalnız bültenler
+2026-11-05,20261105-0333-video,gun_ici_mevsimsellik,EN,video ajanı: tastylive episode intraday time of day /ES futures hourly returns study first hour last hour,10,0,tastylive bölümü açılmadı
