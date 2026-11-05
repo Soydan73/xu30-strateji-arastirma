@@ -1071,3 +1071,41 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-1533-video,yapay_zeka_ml,EN,video ajanı: Quantreo OR neurotrader video machine learning intraday trading strategy features walk-forward results blog post,19,0,ayna/özet siteleri
 2026-11-05,20261105-1533-video,intraday_momentum_literaturu,EN,video ajanı: video explained late-day intraday momentum last half hour index futures strategy rules gamma hedging close,18,0,akademik PDF; videosuz sayfalar
 2026-11-05,20261105-1533-video,seans_sonu_akisi,TR,video ajanı: VİOP 30 son bir saat kapanışa doğru trend devam eder mi video anlatım gün sonu işlem stratejisi,18,0,TR video yok
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,"Marshall Cahan Cahan ""intraday technical trading rules"" E-mini S&P 500 futures bootstrap reality check",10,1,JEF 2008 olumsuz kanıt
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,fixed-share expert advice online portfolio of trading rules intraday futures transaction costs switching experts,10,1,Liu-Hsieh 2609.29887
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,site:tradingview.com/script Nadaraya-Watson kernel regression non-repainting strategy crossover,10,1,NW ailesi TEKRAR
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,quantile regression forest intraday trading only trade when lower quantile exceeds transaction cost futures minute,10,0,yalnız yöntem
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,Hawkes process buy and sell market order intensity imbalance predicts short-term price direction futures empirical trading strategy,10,0,hepsi okunmuş
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,Lo Mamaysky Wang kernel regression technical patterns intraday data head-and-shoulders minute futures conditional returns,10,0,yalnız JF 2000 günlük
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,site:mql5.com/en/articles Gaussian process regression expert advisor uncertainty,10,1,mql5 18427 yapay veri
+2026-11-05,20261105-1545,quant_istatistik_modeller,TR,gün içi sürü davranışı alıcı satıcı başlatmalı işlemler endeks vadeli Borsa İstanbul yüksek frekans,10,0,okunmuş tezler
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,imitation learning hindsight optimal trading oracle labels dynamic programming transaction costs intraday futures supervised,10,1,Koh AAAI 2024
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,"site:quantpedia.com kernel regression OR nonparametric OR ""machine learning"" trend following futures intraday",10,0,yalnız TV NW
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,site:nexusfi.com machine learning ES NQ model features overfitting walk forward live results thread,20,1,NexusFi aşırı uyum
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,intraday herding measure signed trades runs buyer-initiated index futures predicts return continuation reversal,10,2,MPRA 20217; Cuadro-Sáez IBEX
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,"Bayesian beta-binomial win probability update trading rule sequential ""Thompson sampling"" strategy selection intraday transaction costs",10,0,pazarlama/ders notu
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,automated chart pattern recognition intraday futures head and shoulders double top kernel smoothing out-of-sample profitability high-frequency,10,3,Ahlawat; Watson tezi; TV kMOrpfQy
+2026-11-05,20261105-1545,yapay_zeka_ml,EN,"substack quant ""online learning"" OR ""multiplicative weights"" combine trading signals intraday futures blog post",10,0,okunmuş
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,"site:elitetrader.com Hurst exponent OR ""variance ratio"" intraday ES regime switch trend mean reversion results",10,0,ET sonucu yok
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,intraday swing length distribution zigzag retracement probability continuation futures empirical study minute data swing statistics trading rule,10,2,TV NQ saatlik; forge pivot_expectancy
+2026-11-05,20261105-1545,quant_istatistik_modeller,EN,Patterson Sharma runs test intraday herding index futures trade direction subsequent returns,10,1,McAleer-Radalj CFTC
+2026-11-05,20261105-1545,vade_sonu_devir,EN,day before expiration index futures intraday return pre-expiration day effect arbitrage unwinding study,10,2,Joensuu (Aalto kopyası); Er vd. ISE-30
+2026-11-05,20261105-1545,vade_sonu_devir,TR,Borsa İstanbul vade sonu günü endeks vadeli işlem hacmi oynaklık olay çalışması tez,10,0,okunmuş/bülten
+2026-11-05,20261105-1545,vade_sonu_devir,EN,site:nexusfi.com roll day first hour new contract gap ES intraday trading behavior,10,0,günlükler
+2026-11-05,20261105-1545,vade_sonu_devir,EN,site:tradingview.com/script monthly opex OR expiration day intraday strategy session filter,15,2,takvim gölgeleyiciler
+2026-11-05,20261105-1545,vade_sonu_devir,EN,"arxiv OR ssrn ""expiration day"" index futures high-frequency order imbalance settlement price intraday reversal 2024 2025",10,0,hepsi okunmuş
+2026-11-05,20261105-1545,vade_sonu_devir,EN,site:elitetrader.com expiration day settlement fade last hour index futures pattern,16,3,Merrick; Röder-Bamberg; slopeofhope
+2026-11-05,20261105-1545,vade_sonu_devir,TR,ay sonu ay başı etkisi Borsa İstanbul seans içi saatlik getiri dergipark,10,1,Jumshudlu-Vuran 2026
+2026-11-05,20261105-1545,vade_sonu_devir,EN,site:mql5.com rollover futures contract change day trading behaviour expert advisor B3 WIN index futures vencimento,7,0,Market ürünleri
+2026-11-05,20261105-1545,vade_sonu_devir,EN,Ibovespa futures expiration day vencimento índice futuro efeito intraday price reversal study B3,10,0,B3 ürün sayfası
+2026-11-05,20261105-1545,vade_sonu_devir,TR,VİOP vade sonu son işlem günü endeks vadeli kapanış seansı manipülasyon uzlaşma fiyatı sapma son 30 dakika makale,10,1,BIST30 broşürü 2018
+2026-11-05,20261105-1545,vade_sonu_devir,EN,expiration index futures intraday range volatility compression before expiry expansion after expiry new front month empirical days-to-expiry realized volatility,10,2,Illueca-Lafuente; cutemarkets
+2026-11-05,20261105-1545,vade_sonu_devir,EN,site:quantpedia.com OR site:quantifiedstrategies.com triple witching day OR week after options expiration S&P 500 strategy backtest,10,0,haber
+2026-11-05,20261105-1545-video,vade_sonu_devir,EN,video ajanı: expiration day index futures intraday trading strategy video explained settlement last hour rules,18,0,Hindistan opsiyon blogları
+2026-11-05,20261105-1545-video,vade_sonu_devir,TR,video ajanı: VİOP vade sonu günü endeks vadeli işlem stratejisi video anlatım son işlem günü uzlaşma,18,0,TR video yok
+2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,video ajanı: webinar video Ornstein-Uhlenbeck intraday mean reversion futures strategy half-life entry z-score rules results,10,0,Market ürünü
+2026-11-05,20261105-1545-video,vade_sonu_devir,EN,"video ajanı: ""quad witching"" OR ""expiration Friday"" ES futures video day trading pattern rules backtest youtube",19,0,videosuz TV
+2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,video ajanı: video tutorial change point detection volatility regime intraday futures trading strategy rules backtest results,10,0,okunmuş
+2026-11-05,20261105-1545-video,vade_sonu_devir,EN,video ajanı: futures rollover week day trading video what to expect volume shift strategy index futures roll trading tips transcript,16,1,Simpler Trading eşlik metni
+2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,"video ajanı: Hurst exponent OR ""variance ratio"" trading strategy video explained intraday futures rules entry exit tested results 2025",18,0,videosuz
+2026-11-05,20261105-1545-video,quant_istatistik_modeller,EN,"video ajanı: Quantpedia OR ""Better System Trader"" podcast video intraday index futures statistical edge show notes",20,0,podcast/ayna
