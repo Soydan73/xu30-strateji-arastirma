@@ -1044,3 +1044,30 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-1233-video,quant_istatistik_modeller,EN,video ajanı: Kalman filter intraday trend futures strategy video tutorial rules entry exit backtest results page,17,0,videosuz TV scriptleri
 2026-11-05,20261105-1233-video,yapay_zeka_ml,TR,video ajanı: yapay zeka makine öğrenmesi VİOP endeks vadeli gün içi strateji video anlatım backtest,18,0,TR video yok
 2026-11-05,20261105-1233-video,quant_istatistik_modeller,EN,video ajanı: QuantInsti webinar recording intraday futures regime detection change point volatility strategy rules results 2026,18,1,LSEG webinar sayfası; arXiv 2605.11423 (okunmadı)
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,"""trend scanning"" labels López de Prado t-value regression intraday futures out-of-sample trading rule",10,1,mql5 23659 yeni; 19253 havuzda
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,arxiv Venn-Abers OR probability calibration trading signal futures only trade calibrated probability above cost threshold,10,2,arXiv 2601.07852 UWC + Substack eşlik
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,site:tradingview.com/script trend scanning t-statistic regression slope multiple lookback,18,0,yalnız eğim göstergeleri
+2026-11-05,20261105-1533,yapay_zeka_ml,TR,genetik programlama sembolik regresyon alım satım kuralı Borsa İstanbul gün içi tez,10,0,günlük hisse GP tezleri
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,"arxiv intraday stock index futures ""cost-aware"" OR ""turnover-penalized"" signal minute bars hysteresis no-trade region net profit",10,1,nrenzoni target engineering
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,arxiv high-frequency formulaic alpha mining commodity OR index futures minute-level single asset time-series factor LLM evolutionary 2026,10,1,FactorMiner 2602.14670
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,"arxiv ""decision-focused learning"" OR ""predict-then-optimize"" intraday futures trading transaction costs minute out-of-sample",10,0,portföy SPO
+2026-11-05,20261105-1533,yapay_zeka_ml,EN,site:mql5.com/en/articles conformal prediction expert advisor abstain trade interval width filter,10,1,mql5 18324 Dmitrievsky
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,"""Understanding intraday momentum strategies"" Rosa Journal of Futures Markets",10,2,Rosa JFM 2022; Zarattini unisg PDF
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,Elaut Frömmel Lampaert intraday momentum FX markets informed trading liquidity provision last half hour,10,1,JFinMkts 2018
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,"Cushing Madhavan ""stock returns and trading at the close"" institutional order flow last minutes",20,0,asıl makale çıkmadı
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,market intraday momentum Chinese stock index futures CSI 300 lunch break morning session predicts last half-hour journal,10,1,Zhang-Ma-Zhu EM 2019
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,intraday momentum crude oil futures first half-hour last half-hour jumps EIA announcement Wen Gong Ma,20,3,"Wen 2021/2023, QP #1076"
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,site:elitetrader.com intraday momentum first half hour last half hour does it work futures,18,0,hepsi okunmuş
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,Cushing Madhavan 2000 Journal of Financial Markets end of day returns closing trades index rebalancing last five minutes return reversal,10,1,Barbon vd. SFI WP
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,site:mql5.com/en/code intraday momentum last half hour session close expert advisor first 30 minutes,7,0,yalnız ORB
+2026-11-05,20261105-1533,seans_sonu_akisi,TR,kapanış öncesi fiyat baskısı endeks dengeleme kurumsal yatırımcı son dakika işlemleri Borsa İstanbul getiri tersine dönme,10,1,Aydıner-Altay 2020
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,"site:tradingview.com/script intraday momentum ""last 30 minutes"" economic news day CPI strategy open-source",7,0,haber penceresi göstergeleri
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,"substack intraday momentum announcement days FOMC CPI ""last half-hour"" futures backtest 2025",17,2,"Fordham FOMC tezi, tastylive"
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,closing call auction introduction effect on last half-hour return momentum end-of-day volatility emerging market study index,10,1,Hagströmer-Nordén OMXS30
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,site:nexusfi.com CPI day OR FOMC day afternoon trend continuation close ES statistics news day,15,0,istatistik yok
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,site:elitetrader.com fade the close last 30 minutes after trend day index futures reversal statistics,17,3,ET dizileri + TraderFeed; serious-alpha erişilemedi
+2026-11-05,20261105-1533,seans_sonu_akisi,EN,"site:tradingview.com/script strategy last hour entry ""high of day"" close location trend continuation into close open-source",7,0,seviye çizen betikler
+2026-11-05,20261105-1533,intraday_momentum_literaturu,EN,medium.com intraday momentum strategy index futures half-hour returns backtest transaction costs python first half hour volatility filter results 2025,10,0,okunmuş kaynaklar
+2026-11-05,20261105-1533-video,yapay_zeka_ml,EN,video ajanı: Quantreo OR neurotrader video machine learning intraday trading strategy features walk-forward results blog post,19,0,ayna/özet siteleri
+2026-11-05,20261105-1533-video,intraday_momentum_literaturu,EN,video ajanı: video explained late-day intraday momentum last half hour index futures strategy rules gamma hedging close,18,0,akademik PDF; videosuz sayfalar
+2026-11-05,20261105-1533-video,seans_sonu_akisi,TR,video ajanı: VİOP 30 son bir saat kapanışa doğru trend devam eder mi video anlatım gün sonu işlem stratejisi,18,0,TR video yok
