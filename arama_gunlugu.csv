@@ -1003,3 +1003,44 @@ tarih,kosu,tema,dil,sorgu,sonuc_sayisi,ise_yarar,not
 2026-11-05,20261105-1033-video,oynaklik_rejimi,TR,video ajanı: VİOP endeks vadeli volatilite daralması sıkışma kırılım stratejisi video anlatım ATR,14,0,TR video kaynağı yok
 2026-11-05,20261105-1033-video,oynaklik_rejimi,EN,video ajanı: Al Brooks barbwire tight trading range video Emini when not to trade rules,16,1,Brooks p=264033/264303
 2026-11-05,20261105-1033-video,oynaklik_rejimi,EN,video ajanı: System Trader Success video volatility filter intraday Emini strategy ATR regime EasyLanguage rules,19,0,videosuz TV scriptleri
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,permutation entropy intraday predictability filter trading strategy stock index futures minute data out-of-sample,10,0,hepsi havuzda
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,DAX OR Euro Stoxx futures intraday machine learning trading strategy 5-minute bars net of transaction costs out-of-sample paper,10,2,arXiv 2007.15982; Unger ?p=9360
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,site:tradingview.com/script Hurst exponent OR entropy regime filter machine learning strategy open source intraday,10,2,0HLg0CWk; DdhCSANr
+2026-11-05,20261105-1233,yapay_zeka_ml,TR,gün içi permütasyon entropisi piyasa verimliliği Borsa İstanbul yüksek frekans tahmin edilebilirlik,10,0,yalnız günlük verimlilik testleri
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,arxiv machine learning intraday futures trade intensity OR trade arrival rate feature most important direction prediction minute bars 2025,10,0,hepsi havuzda
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,site:mql5.com/en/articles entropy OR Hurst exponent feature machine learning filter expert advisor 2025 2026,10,2,21742; 12129
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,SSRN machine learning intraday stock index futures relative volume surprise feature predicts continuation trading rule net costs,10,0,
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,arxiv Hurst exponent rolling regime intraday index futures trend-following versus mean reversion switching strategy minute data transaction costs,10,1,2205.11122
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,Shannon entropy of returns predicts intraday trend profitability futures paper low entropy trading signal out-of-sample,10,3,1406.7526; MDPI Entropy 27/4/430; curupira blog
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,Hang Seng index futures intraday machine learning explainable feature importance trading strategy 15-minute out-of-sample transaction costs journal,10,0,LightGBM preprint konu dışı
+2026-11-05,20261105-1233,yapay_zeka_ml,EN,site:quantpedia.com entropy OR Hurst exponent OR fractal dimension trend filter strategy futures intraday,10,0,Quantpedia sonucu gelmedi
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,threshold autoregressive model intraday returns asymmetric autocorrelation large moves index futures trading rule,10,0,Martens TECM spot gerekir; monash havuzda
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,abnormal volume surprise relative to time-of-day expected volume predicts subsequent intraday returns futures,10,1,LuxAlgo Volume Surprise
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,transfer entropy signed order flow to price intraday futures predictive trading signal,10,0,verimsiz
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,arXiv maximum drawup drawdown intraday trend reversal probability Brownian motion trading rule futures,10,0,yalnız olasılık kuramı; verimsiz
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,singular spectrum analysis trend extraction intraday trading strategy futures out-of-sample causal,10,1,UFMG özyinelemeli SSA
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,site:mql5.com/en/articles singular spectrum analysis OR empirical mode decomposition expert advisor,7,1,mql5 24084
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,arxiv 2025 intraday trend following equity index futures 15-minute bars autocorrelation structure optimal filter transaction costs,10,1,Quantpedia Tzotchev
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,site:tradingview.com/script Brownian bridge OR first passage OR hitting probability target stop probability open-source,7,1,Centieiro FPT
+2026-11-05,20261105-1233,quant_istatistik_modeller,TR,endeks vadeli kontrat gün içi getiri otokorelasyon eşik modeli doğrusal olmayan öngörülebilirlik VİOP tez,10,0,verimsiz (günlük/makro)
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,volume imbalance bars tick imbalance bars information-driven bars trading strategy futures empirical returns predictability paper,10,2,vankyle OFI olumsuz; Wu-Xu SMU
+2026-11-05,20261105-1233,quant_istatistik_modeller,EN,smooth transition autoregressive ESTAR intraday index futures mean reversion nonlinear deviation trading profitability,10,1,McMillan-Speight JFM
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,daylight saving time shift US market open timing natural experiment emerging market intraday returns volatility Istanbul,10,1,dergipark 1388917
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,TR,Borsa İstanbul seans saatleri değişikliği öğle arası kaldırılması gün içi oynaklık hacim etkisi makale,10,0,yalnız haber; verimsiz
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,Asian market close spillover European morning intraday returns Hong Kong Shanghai close predicts index futures afternoon,10,1,Wei-Frino CSI300
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,TR,arife günü bayram öncesi etkisi Borsa İstanbul getiri yarım gün seans tatil öncesi anomali,10,0,yalnız haber; verimsiz
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,Xetra intraday auction 13:00 midday auction price effect DAX futures returns around auction,10,2,Serikova WPF-1914; Angerer SBR
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,site:tradingview.com/script day of week hour of day seasonality heatmap strategy futures long only best weekday hour,16,1,EdgeTools 4wG41fcR
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,Friday afternoon effect intraday returns weekend risk de-risking index futures last hours Friday negative study,10,2,Yu-Wu-Hsieh; LuxAlgo
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,Ramadan effect intraday trading volume volatility returns Borsa Istanbul OR Muslim countries high-frequency,10,1,Oran-Tan-Külah
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,site:nexusfi.com breakout filter range relative to average range for same time of day volatility normalized by hour,10,1,NexusFi p=653757
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,site:quantpedia.com pre-holiday effect intraday OR half-day session stock index futures,10,0,havuzda
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,site:reddit.com/r/FuturesTrading European session lunch hour DAX chop time of day statistics afternoon trend after US open,16,1,NexusFi DAX sayfası
+2026-11-05,20261105-1233,gun_ici_mevsimsellik,EN,site:mql5.com/en/code hour of day seasonality expert advisor buy at hour sell at hour statistics bias,7,1,mql5 20941
+2026-11-05,20261105-1233-video,quant_istatistik_modeller,EN,video ajanı: video webinar Hurst exponent intraday futures trading strategy rules mean reversion vs trend regime switch,10,0,pulse.bot ayna; videosuz
+2026-11-05,20261105-1233-video,yapay_zeka_ml,EN,video ajanı: YouTube webinar machine learning intraday futures strategy walk-forward transaction costs results written summary 2025,20,1,ODSC Quantiacs eşlik sayfası
+2026-11-05,20261105-1233-video,vade_sonu_devir,EN,video ajanı: futures contract rollover week trading strategy video roll period index futures pattern,19,0,yalnız devir bültenleri
+2026-11-05,20261105-1233-video,gun_ici_mevsimsellik,EN,video ajanı: video intraday seasonality ES futures time of day strategy backtest rules blog post accompanying video 2026,10,1,edgeful intraday timing (TEKRAR)
+2026-11-05,20261105-1233-video,quant_istatistik_modeller,EN,video ajanı: Kalman filter intraday trend futures strategy video tutorial rules entry exit backtest results page,17,0,videosuz TV scriptleri
+2026-11-05,20261105-1233-video,yapay_zeka_ml,TR,video ajanı: yapay zeka makine öğrenmesi VİOP endeks vadeli gün içi strateji video anlatım backtest,18,0,TR video yok
+2026-11-05,20261105-1233-video,quant_istatistik_modeller,EN,video ajanı: QuantInsti webinar recording intraday futures regime detection change point volatility strategy rules results 2026,18,1,LSEG webinar sayfası; arXiv 2605.11423 (okunmadı)
